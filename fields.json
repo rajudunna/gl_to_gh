@@ -17,9 +17,9 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.227.221.26",
-        "db_user": "beksfcs",
-        "db_pass": "Max@sfcs",
+        "db_host": "10.227.241.93",
+        "db_user": "bebsfcs",
+        "db_pass": "Brandix@7",
         "db_port": "3306"
     },
     "mssql_database_info": {
