@@ -17,9 +17,9 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.227.221.26",
-        "db_user": "beksfcs",
-        "db_pass": "Max@sfcs",
+        "db_host": "bai2-sfcs-dbsrv",
+        "db_user": "bai2_sfcs",
+        "db_pass": "Bai2@Max",
         "db_port": "3306"
     },
     "mssql_database_info": {
