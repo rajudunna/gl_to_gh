@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "Koggala",
+                "value": "Batticaloa",
                 "subtype": "text"
             },
             {
@@ -50,11 +50,56 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "EKG",
+                "value": "EBC",
                 "subtype": "text"
             },
 			{
                 "type": "text",
+                "required": true,
+				"label": "Cluster Code",
+                "className": "form-control",
+                "name": "cluster_code",
+                "value": "BEL",
+                "subtype": "text"            
+			},
+			{                
+				"type": "text",
+				"required": true,
+                "label": "Company No",
+                "className": "form-control",
+                "name": "company_no",
+                "value": "200",
+                "subtype": "text"
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Central WH Code",
+                "className": "form-control",
+                "name": "central_wh_code",
+                "value": "BAL",
+                "subtype": "text"				
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Plant WH Code",
+                "className": "form-control",
+                "name": "plant_wh_code",
+                "value": "E61",
+                "subtype": "text"            
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Plant Prod Code",
+                "className": "form-control",
+                "name": "plant_prod_code",
+                "value": "EBC",
+                "subtype": "text"
+			},            
+			{                
+				"type": "text",
                 "required": true,
                 "label": "RMS Request Time",
                 "className": "form-control",
@@ -98,7 +143,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BEK",
+                "value": "BEB",
                 "subtype": "text"
             },
             {
@@ -115,7 +160,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "7:30:00"
+                "value": "6:30:00"
             },
             {
                 "type": "text",
@@ -123,7 +168,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "19:30:00"
+                "value": "22:30:00"
             }
         ],
         [
@@ -385,6 +430,26 @@
 			{
                 "type": "select",
                 "required": true,
+                "label": "Cut Quantity Reporting Validation",
+                "className": "form-control",
+                "name": "cut-qty-reporting-validation",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                        
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+			{
+                "type": "select",
+                "required": true,
                 "label": "Reporting Quantity",
                 "className": "form-control",
                 "name": "reporting-quantity",
@@ -425,7 +490,59 @@
                 ]
             }
         ],
-        [
+        [{
+                "type": "header",
+                "subtype": "h1",
+                "label": "API Configurations"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Host Name",
+                "className": "form-control",
+                "name": "api-host-name",
+                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "api-user-name",
+                "value": "BEL_SFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "api-password",
+                "value": "brandix@321"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port",
+                "className": "form-control",
+                "name": "api-port",
+                "value": "22105",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Companey Number",
+                "className": "form-control",
+                "name": "companey-number",
+                "value": "200",
+                "subtype": "text"
+            }
+
+        ], 
+         [
             {
                 "type": "header",
                 "subtype": "h1",
