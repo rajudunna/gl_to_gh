@@ -450,6 +450,25 @@
             {
                 "type": "select",
                 "required": true,
+                "label": "Enable API Calls",
+                "className": "form-control",
+                "name": "enable-api-call",
+                "values": [
+                    {
+                        "label": "YES",
+                        "value": "YES"
+                    },
+                    {
+                        "label": "NO",
+                        "value": "NO",
+                        "selected": true
+                    }
+                ],
+                "value": "NO"
+            }
+            {
+                "type": "select",
+                "required": true,
                 "label": "Reporting Quantity",
                 "className": "form-control",
                 "name": "reporting-quantity",
