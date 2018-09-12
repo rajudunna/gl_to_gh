@@ -465,7 +465,7 @@
                     }
                 ],
                 "value": "NO"
-            }
+            },
             {
                 "type": "select",
                 "required": true,
