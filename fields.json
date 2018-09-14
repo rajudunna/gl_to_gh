@@ -17,9 +17,9 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "bai2-sfcs-dbsrv",
-        "db_user": "bai2_sfcs",
-        "db_pass": "Bai2@Max",
+        "db_host": "BEB-SFCS-DBSRV",
+        "db_user": "brandix_sfcs",
+        "db_pass": "Brandix@7",
         "db_port": "3306"
     },
     "mssql_database_info": {
@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BAI2",
+                "value": "BERA",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "AIP",
+                "value": "",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "207",
+                "value": "",
                 "subtype": "text"
             },
             {
@@ -95,7 +95,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "AIP",
+                "value": "",
                 "subtype": "text"
             },
             {
