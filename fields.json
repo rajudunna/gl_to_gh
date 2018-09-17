@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "",
+                "value": "ERK",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "",
+                "value": "E57",
                 "subtype": "text"
             },
             {
@@ -95,7 +95,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "",
+                "value": "EKG",
                 "subtype": "text"
             },
             {
