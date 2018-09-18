@@ -520,7 +520,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "value": "http://brandixm3.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -547,7 +547,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "22105",
+                "value": "21105",
                 "subtype": "text"
             },
             {
