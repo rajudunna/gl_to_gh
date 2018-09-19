@@ -17,7 +17,7 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.227.100.26",
+        "db_host": "10.227.100.106",
         "db_user": "baiall",
         "db_pass": "baiall",
         "db_port": "3306"
