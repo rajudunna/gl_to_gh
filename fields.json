@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "BEB-SFCS-DBSRV",
-        "db_user": "brandix_sfcs",
-        "db_pass": "Brandix@7",
-        "db_port": "3306"
+        "db_host": "10.227.220.238",
+        "db_user": "baiall",
+        "db_pass": "baiall",
+        "db_port": "3325"
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -520,7 +520,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://brandixm3.brandixlk.org",
+                "value": "http://eka-mvxsod-01.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -547,7 +547,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "21105",
+                "value": "22105",
                 "subtype": "text"
             },
             {
