@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "192.168.0.110",
+        "db_host": "10.227.220.238",
         "db_user": "baiall",
         "db_pass": "baiall",
-        "db_port": "3326"
+        "db_port": "3323"
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -55,6 +55,51 @@
             },
 			{
                 "type": "text",
+                "required": true,
+				"label": "Cluster Code",
+                "className": "form-control",
+                "name": "cluster_code",
+                "value": "BEL",
+                "subtype": "text"            
+			},
+			{                
+				"type": "text",
+				"required": true,
+                "label": "Company No",
+                "className": "form-control",
+                "name": "company_no",
+                "value": "200",
+                "subtype": "text"
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Central WH Code",
+                "className": "form-control",
+                "name": "central_wh_code",
+                "value": "BAL",
+                "subtype": "text"				
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Plant WH Code",
+                "className": "form-control",
+                "name": "plant_wh_code",
+                "value": "E54",
+                "subtype": "text"            
+			},
+            {                
+				"type": "text",
+                "required": true,
+                "label": "Plant Prod Code",
+                "className": "form-control",
+                "name": "plant_prod_code",
+                "value": "EKG",
+                "subtype": "text"
+			},            
+			{                
+				"type": "text",
                 "required": true,
                 "label": "RMS Request Time",
                 "className": "form-control",
@@ -385,6 +430,45 @@
 			{
                 "type": "select",
                 "required": true,
+                "label": "Cut Quantity Reporting Validation",
+                "className": "form-control",
+                "name": "cut-qty-reporting-validation",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                        
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Enable API Calls",
+                "className": "form-control",
+                "name": "enable-api-call",
+                "values": [
+                    {
+                        "label": "YES",
+                        "value": "YES"
+                    },
+                    {
+                        "label": "NO",
+                        "value": "NO",
+                        "selected": true
+                    }
+                ],
+                "value": "NO"
+            },
+			{
+                "type": "select",
+                "required": true,
                 "label": "Reporting Quantity",
                 "className": "form-control",
                 "name": "reporting-quantity",
@@ -425,7 +509,59 @@
                 ]
             }
         ],
-        [
+        [{
+                "type": "header",
+                "subtype": "h1",
+                "label": "API Configurations"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Host Name",
+                "className": "form-control",
+                "name": "api-host-name",
+                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "api-user-name",
+                "value": "BEL_SFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "api-password",
+                "value": "brandix@321"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port",
+                "className": "form-control",
+                "name": "api-port",
+                "value": "22105",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Companey Number",
+                "className": "form-control",
+                "name": "companey-number",
+                "value": "200",
+                "subtype": "text"
+            }
+
+        ], 
+         [
             {
                 "type": "header",
                 "subtype": "h1",
