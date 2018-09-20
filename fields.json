@@ -487,6 +487,26 @@
                 "value": "no"
             },
             {
+                "type": "select",
+                "required": true,
+                "label": "Line In",
+                "className": "form-control",
+                "name": "line-in",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                       
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "no"
+            },
+            {
                 "type": "checkbox-group",
                 "required": true,
                 "label": "Category Display in Dashboard",
