@@ -773,6 +773,63 @@
                 "name": "update_status_mail",
                 "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             }
-        ]
+        ],
+		[
+			{
+			"type": "select",
+			"required": false,
+			"label": "Central Warehouse",
+			"className": "form-control",
+			"name": "central_warehouse",
+			"values": [
+				{
+					"label": "no",
+					"value": "no"
+				},
+				{
+					"label": "yes",
+					"value": "yes",
+					"selected": true
+				}
+			],
+			"value": "yes"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Host",
+				"className": "form-control",
+				"name": "cw_host",
+				"value": "10.227.220.238",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "User Name",
+				"className": "form-control",
+				"name": "cw_username",
+				"value": "baiall",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Password",
+				"className": "form-control",
+				"name": "cw_password",
+				"value": "baiall",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Port",
+				"className": "form-control",
+				"name": "cw_port",
+				"value": "3318",
+				"subtype": "text"
+			}
+		]
     ]
 }
