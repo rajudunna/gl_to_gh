@@ -456,6 +456,26 @@
             {
                 "type": "select",
                 "required": true,
+                "label": "Shrinkage inspection",
+                "className": "form-control",
+                "name": "shrinkage-inspection",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                       
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
+                "type": "select",
+                "required": true,
                 "label": "Enable API Calls",
                 "className": "form-control",
                 "name": "enable-api-call",
