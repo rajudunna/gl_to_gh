@@ -28,6 +28,12 @@
         "db_pass": "Kalyan",
         "db_port": "3306"
     },
+    "m3_jobs_config": {
+        "m3_system_id": "10.227.40.10",
+        "m3_user_name": "BAISFCS",
+        "m3_password": "fcs@m3pr",
+        "m3_db": "M3BRNPRD"
+    },
     "steps": [
         [
             {
@@ -577,6 +583,15 @@
                 "className": "form-control",
                 "name": "companey-number",
                 "value": "200",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Mo SOAP API",
+                "className": "form-control",
+                "name": "mo_soap_api",
+                "value": "lwsprd",
                 "subtype": "text"
             }
 
