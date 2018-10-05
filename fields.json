@@ -482,15 +482,15 @@
                 "values": [
                     {
                         "label": "YES",
-                        "value": "YES"
+                        "value": "YES",
+                        "selected": true
                     },
                     {
                         "label": "NO",
-                        "value": "NO",
-                        "selected": true
+                        "value": "NO"
                     }
                 ],
-                "value": "NO"
+                "value": "YES"
             },
             {
                 "type": "select",
