@@ -28,12 +28,6 @@
         "db_pass": "Kalyan",
         "db_port": "3306"
     },
-    "m3_jobs_config": {
-        "m3_system_id": "10.227.38.36",
-        "m3_user_name": "BAISFCS",
-        "m3_password": "lan@col3",
-        "m3_db": "BAISFCS"
-    },
     "steps": [
         [
             {
@@ -632,6 +626,42 @@
                 "className": "form-control",
                 "name": "mo_soap_api",
                 "value": "lwsdev",
+                "subtype": "text"
+            },           
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 System Id",
+                "className": "form-control",
+                "name": "m3_system_id",
+                "value": "10.227.38.36",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Username",
+                "className": "form-control",
+                "name": "m3_user_name",
+                "value": "BAISFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Password",
+                "className": "form-control",
+                "name": "m3_password",
+                "value": "lan@col3",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Db",
+                "className": "form-control",
+                "name": "m3_db",
+                "value": "BAISFCS",
                 "subtype": "text"
             }
 
