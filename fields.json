@@ -476,6 +476,26 @@
             {
                 "type": "select",
                 "required": true,
+                "label": "Sewing_rejection_plant_wise",
+                "className": "form-control",
+                "name": "sewing_rejection",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+    
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "no"
+            },
+            {
+                "type": "select",
+                "required": true,
                 "label": "Enable API Calls",
                 "className": "form-control",
                 "name": "enable-api-call",
