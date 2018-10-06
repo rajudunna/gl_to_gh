@@ -27,7 +27,7 @@
         "db_user": "root",
         "db_pass": "Kalyan",
         "db_port": "3306"
-    }
+    },
     "steps": [
         [
             {
