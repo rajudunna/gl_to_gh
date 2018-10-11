@@ -694,8 +694,43 @@
                 "name": "m3_db",
                 "value": "BAISFCS",
                 "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Server Name",
+                "className": "form-control",
+                "name": "sf_sp_servername",
+                "value": "BAS-DBSRV-01",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP DB Name",
+                "className": "form-control",
+                "name": "sf_sp_dbname",
+                "value": "BEL_RMDashboard",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Username",
+                "className": "form-control",
+                "name": "sf_sp_username",
+                "value": "BEL_SFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Password",
+                "className": "form-control",
+                "name": "sf_sp_pwd",
+                "value": "2ESwasw!",
+                "subtype": "text"
             }
-
         ], 
          [
             {
