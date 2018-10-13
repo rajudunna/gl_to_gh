@@ -141,7 +141,38 @@
                     }
                 ],
                 "value": [
-                    "general"
+                   "general"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "Teams",
+                "name": "teams",
+                "values": [
+                    {
+                        "label": "A",
+                        "value": "A",
+                        "selected": true
+                    },
+                    {
+                        "label": "B",
+                        "value": "B",
+                        "selected": true
+                    },
+                    {
+                        "label": "General",
+                        "value": "general",
+                        "selected": true
+                    },
+                    {
+                        "label": "ALL",
+                        "value": "ALL",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                    "general","ALL"
                 ]
             },
             {
