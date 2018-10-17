@@ -101,7 +101,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "EKG",
+                "value": "ERK",
                 "subtype": "text"
             },
             {
