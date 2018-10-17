@@ -251,7 +251,7 @@
                 "label": "SAH Countdown email",
                 "className": "form-control",
                 "name": "sah_countdown_email",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -260,7 +260,7 @@
                 "label": "Week Del Plan Status Mail",
                 "className": "form-control",
                 "name": "week_del_plan_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -269,7 +269,7 @@
                 "label": "RM Summary Report Email",
                 "className": "form-control",
                 "name": "rm_summary_report_email",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -278,7 +278,7 @@
                 "label": "MRN week summary alert mail",
                 "className": "form-control",
                 "name": "mrn_week_summary_alert_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -287,7 +287,7 @@
                 "label": "Bulk OR Fail Alert",
                 "className": "form-control",
                 "name": "bulk_or_fail_alert",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -296,7 +296,7 @@
                 "label": "PRO AOD GATEPASS UPDATE TO BELBAL CO INVOICE mail",
                 "className": "form-control",
                 "name": "pro_aod_gatepass_update_to_belbal_co_invoice_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -305,7 +305,7 @@
                 "label": "carton pendings mail",
                 "className": "form-control",
                 "name": "carton_pendings_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -314,7 +314,7 @@
                 "label": "Dailly Delivery Failures Mail",
                 "className": "form-control",
                 "name": "dailly_delivery_failures_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -323,7 +323,7 @@
                 "label": "SAH dashboard email",
                 "className": "form-control",
                 "name": "sah_dashboard_email",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -331,7 +331,7 @@
                 "label": "Order Summary Mail",
                 "className": "form-control",
                 "name": "order_summary_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -339,7 +339,7 @@
                 "label": "Plan Vs Output Mail",
                 "className": "form-control",
                 "name": "plan_vs_output_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -347,7 +347,7 @@
                 "label": "IPS Dashboard Summary mail",
                 "className": "form-control",
                 "name": "ips_dashboard_summary_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -355,7 +355,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -363,7 +363,7 @@
                 "label": "PRO SI WED OUTPUT Details mail",
                 "className": "form-control",
                 "name": "pro_si_wed_output_details_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -371,7 +371,7 @@
                 "label": "Mail15",
                 "className": "form-control",
                 "name": "mail15",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -379,7 +379,7 @@
                 "label": "Mail16",
                 "className": "form-control",
                 "name": "mail16",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -387,7 +387,7 @@
                 "label": "Mail17",
                 "className": "form-control",
                 "name": "mail17",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -395,7 +395,7 @@
                 "label": "Mail18",
                 "className": "form-control",
                 "name": "mail18",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -403,7 +403,7 @@
                 "label": "Mail19",
                 "className": "form-control",
                 "name": "mail19",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -411,7 +411,7 @@
                 "label": "Mail20",
                 "className": "form-control",
                 "name": "mail20",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             }
         ],
         [
@@ -555,7 +555,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
@@ -814,7 +814,7 @@
                 "label": "Lay Plan Delete",
                 "className": "form-control",
                 "name": "layplanmail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -823,7 +823,7 @@
                 "label": "MRN Request Form",
                 "className": "form-control",
                 "name": "mrn_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -832,7 +832,7 @@
                 "label": "MRN Request Form2",
                 "className": "form-control",
                 "name": "mrn_request_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -841,7 +841,7 @@
                 "label": "Cutting Alert",
                 "className": "form-control",
                 "name": "cutting_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -850,7 +850,7 @@
                 "label": "Dispatch Mail",
                 "className": "form-control",
                 "name": "dispatch_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -859,7 +859,7 @@
                 "label": "Weekly Delivery Plan Update",
                 "className": "form-control",
                 "name": "weekly_plan_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -868,7 +868,7 @@
                 "label": "Order Quantity Revision",
                 "className": "form-control",
                 "name": "order_quantity_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -877,7 +877,7 @@
                 "label": "Weekly Delivery Plan Status Update",
                 "className": "form-control",
                 "name": "weekly_plan_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -886,7 +886,7 @@
                 "label": "Supplier Claim Update",
                 "className": "form-control",
                 "name": "supplier_claim_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -895,7 +895,7 @@
                 "label": "Supplier Claim PDF Mail",
                 "className": "form-control",
                 "name": "supplier_claim_pdf_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -904,7 +904,7 @@
                 "label": "PLD-Manpower",
                 "className": "form-control",
                 "name": "pld_man_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -913,7 +913,7 @@
                 "label": "Dashboard Email",
                 "className": "form-control",
                 "name": "dashboard_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -922,7 +922,7 @@
                 "label": "Update Status",
                 "className": "form-control",
                 "name": "update_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "BuddhikaM@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             }
         ],
 		[
