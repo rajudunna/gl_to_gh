@@ -169,6 +169,15 @@
                 "subtype": "text"
             },
             {
+               "type": "text",
+               "required": true,
+               "label": "SMTP From Mail",
+               "className": "form-control",
+               "name": "smtp_mail_from",
+               "value": "ictsysalert@brandix.com",
+               "subtype": "text"
+            },
+            {
                 "type": "text",
                 "subtype": "email",
                 "required": true,
