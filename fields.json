@@ -74,6 +74,33 @@
             {
                 "type": "text",
                 "required": true,
+                "label": "Plant Head",
+                "className": "form-control",
+                "name": "plant_head",
+                "value": "Brandix Apparel Solutions Limited-Essentials-Koggala",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Address",
+                "className": "form-control",
+                "name": "plant_address",
+                "value": "Lot No 27,Koggala,Habaraduwa,Sri Lanka",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Location",
+                "className": "form-control",
+                "name": "plant_location",
+                "value": "Sri Lanka",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
