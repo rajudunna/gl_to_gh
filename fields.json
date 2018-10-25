@@ -77,6 +77,33 @@
                 "value": "200",
                 "subtype": "text"
 			},
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Head",
+                "className": "form-control",
+                "name": "plant_head",
+                "value": "Brandix Apparel Solutions Limited-Essentials-Batticaloa",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Address",
+                "className": "form-control",
+                "name": "plant_address",
+                "value": "No: 449,New Kalmunai RD,Kovikulam,Aryampathy,Batticaloa,Sri Lanka",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Location",
+                "className": "form-control",
+                "name": "plant_location",
+                "value": "Sri Lanka",
+                "subtype": "text"
+            },
             {                
 				"type": "text",
                 "required": true,
