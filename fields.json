@@ -77,7 +77,7 @@
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "BrandiX Essentials Limited,Rambukkana",
+                "value": "Brandix Apparel Solutions Limited-Essentials-Rambukkana",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "Plot no -12,BEK SEZ,Rambukkana",
+                "value": "No: 833,Pinnawala,Rambukkana,Sri Lanka",
                 "subtype": "text"
             },
             {
