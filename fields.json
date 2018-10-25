@@ -71,13 +71,13 @@
                 "value": "200",
                 "subtype": "text"
 			},
-			{
+            {
                 "type": "text",
                 "required": true,
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "Brandix Essentials Limited, Batticaloa",
+                "value": "Brandix Apparel Solutions Limited-Essentials-Batticaloa",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "Plot no -12, BEK SEZ,Batticaloa",
+                "value": "No: 449,New Kalmunai RD,Kovikulam,Aryampathy,Batticaloa,Sri Lanka",
                 "subtype": "text"
             },
             {
