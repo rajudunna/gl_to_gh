@@ -70,7 +70,8 @@
                 "name": "company_no",
                 "value": "200",
                 "subtype": "text"
-            },{
+            },
+            {
                 "type": "text",
                 "required": true,
                 "label": "Plant Head",
@@ -96,6 +97,14 @@
                 "name": "plant_location",
                 "value": "India",
                 "subtype": "text"
+            },
+            {
+                "type": "text",
+                "label": "IMS Boxes",
+                "className": "form-control",
+                "name": "ims_boxes",
+                "subtype": "text",
+                "value": "4"
             },
             {
                 "type": "text",
