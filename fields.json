@@ -100,6 +100,14 @@
             },
             {
                 "type": "text",
+                "label": "IMS Boxes",
+                "className": "form-control",
+                "name": "ims_boxes",
+                "subtype": "text",
+                "value": "4"
+            },
+            {
+                "type": "text",
                 "required": true,
                 "label": "Central WH Code",
                 "className": "form-control",
