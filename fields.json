@@ -92,7 +92,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "No: 449,New Kalmunai RD,Kovikulam,Aryampathy,Batticaloa,Sri Lanka",
+                "value": "No: 449,New Kalmunai RD,Kovikulam,Aryampathy,Batticaloa",
                 "subtype": "text"
             },
             {
