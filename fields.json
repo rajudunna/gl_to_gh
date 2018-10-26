@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "Lot No 27,Koggala,Habaraduwa,Sri Lanka",
+                "value": "Lot No 27,Koggala,Habaraduwa",
                 "subtype": "text"
             },
             {
