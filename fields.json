@@ -92,7 +92,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "No: 833,Pinnawala,Rambukkana,Sri Lanka",
+                "value": "No: 833,Pinnawala,Rambukkana",
                 "subtype": "text"
             },
             {
