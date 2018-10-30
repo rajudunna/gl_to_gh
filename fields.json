@@ -295,8 +295,7 @@
                 "label": "SAH Countdown email",
                 "className": "form-control",
                 "name": "sah_countdown_email",
-                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,LilanthaW@brandix.com,nihalso@brandix.com,sandamalira@brandix.com,
-ChathurangaD@brandix.com,LakshithaS@brandix.com,ChathurangaD@brandix.com, DinushaPre@brandix.com"
+                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,LilanthaW@brandix.com,nihalso@brandix.com,sandamalira@brandix.com,ChathurangaD@brandix.com,LakshithaS@brandix.com,ChathurangaD@brandix.com, DinushaPre@brandix.com"
             },
             {
                 "type": "text",
@@ -368,8 +367,7 @@ ChathurangaD@brandix.com,LakshithaS@brandix.com,ChathurangaD@brandix.com, Dinush
                 "label": "SAH dashboard email",
                 "className": "form-control",
                 "name": "sah_dashboard_email",
-                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,LilanthaW@brandix.com,nihalso@brandix.com,sandamalira@brandix.com,
-ChathurangaD@brandix.com,LakshithaS@brandix.com,ChathurangaD@brandix.com, DinushaPre@brandix.com"
+                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,LilanthaW@brandix.com,nihalso@brandix.com,sandamalira@brandix.com,ChathurangaD@brandix.com,LakshithaS@brandix.com,ChathurangaD@brandix.com, DinushaPre@brandix.com"
             },
             {
                 "type": "text",
