@@ -737,8 +737,59 @@
                 "value": "2ESwasw!",
                 "subtype": "text"
             }
-        ], 
-         [
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
+                "label": "Production Status Connection"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "prod-status-server-name",
+                "value": "BERAPPSRV02",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "prod-status-user-name",
+                "value": "SAH_Prod_User",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "prod-status-password",
+                "value": "1qaz@WSX"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Production Status Database",
+                "className": "form-control",
+                "name": "prod-status-db",
+                "value": "SAH",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "label": "Driver Name",
+                "className": "form-control",
+                "name": "prod-status-driver-name",
+                "value": "Driver={SQL Server Native Client 11.0}",
+                "subtype": "text"
+            }
+        ],
+        [
             {
                 "type": "header",
                 "subtype": "h1",
