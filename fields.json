@@ -50,11 +50,83 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "EKG",
+                "value": "AIP",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Cluster Code",
+                "className": "form-control",
+                "name": "cluster_code",
+                "value": "BEL",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Company No",
+                "className": "form-control",
+                "name": "company_no",
+                "value": "200",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Head",
+                "className": "form-control",
+                "name": "plant_head",
+                "value": "Brandix Apparel Solutions Limited-Essentials-Koggala",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Address",
+                "className": "form-control",
+                "name": "plant_address",
+                "value": "Lot No 27,Koggala,Habaraduwa",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Location",
+                "className": "form-control",
+                "name": "plant_location",
+                "value": "Sri Lanka",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Central WH Code",
+                "className": "form-control",
+                "name": "central_wh_code",
+                "value": "BAL",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant WH Code",
+                "className": "form-control",
+                "name": "plant_wh_code",
+                "value": "207",
                 "subtype": "text"
             },
 			{
                 "type": "text",
+                "required": true,
+                "label": "Plant Prod Code",
+                "className": "form-control",
+                "name": "plant_prod_code",
+                "value": "AIP",
+                "subtype": "text"
+            },
+            {
+               "type": "text",
                 "required": true,
                 "label": "RMS Request Time",
                 "className": "form-control",
@@ -90,7 +162,38 @@
                     }
                 ],
                 "value": [
-                    "general"
+                   "A","B"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "Teams",
+                "name": "teams",
+                "values": [
+                    {
+                        "label": "A",
+                        "value": "A",
+                        "selected": true
+                    },
+                    {
+                        "label": "B",
+                        "value": "B",
+                        "selected": true
+                    },
+                    {
+                        "label": "GENERAL",
+                        "value": "general",
+                        "selected": true
+                    },
+                    {
+                        "label": "ALL",
+                        "value": "ALL",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                   "A","B","general","ALL"
                 ]
             },
             {
@@ -401,7 +504,27 @@
                     {
                         "label": "yes",
                         "value": "yes"
-                        
+                       
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Shrinkage inspection",
+                "className": "form-control",
+                "name": "shrinkage-inspection",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                       
                     },
                     {
                         "label": "no",
@@ -411,12 +534,71 @@
                 ],
                 "value": "no"
             },
-			{
+            {
+                "type": "select",
+                "required": true,
+                "label": "Sewing_rejection_plant_wise",
+                "className": "form-control",
+                "name": "sewing_rejection",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+    
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Enable API Calls",
+                "className": "form-control",
+                "name": "enable-api-call",
+                "values": [
+                    {
+                        "label": "YES",
+                        "value": "YES"
+                    },
+                    {
+                        "label": "NO",
+                        "value": "NO",
+                        "selected": true
+                    }
+                ],
+                "value": "NO"
+            },
+            {
                 "type": "select",
                 "required": true,
                 "label": "Reporting Quantity",
                 "className": "form-control",
                 "name": "reporting-quantity",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                       
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "no"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Line In",
+                "className": "form-control",
+                "name": "line-in",
                 "values": [
                     {
                         "label": "yes",
@@ -452,6 +634,259 @@
                     "front",
                     "body"
                 ]
+            }
+        ],
+		[{
+                "type": "header",
+                "subtype": "h1",
+                "label": "API Configurations"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Host Name",
+                "className": "form-control",
+                "name": "api-host-name",
+                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "api-user-name",
+                "value": "BEL_SFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "api-password",
+                "value": "brandix@321"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port",
+                "className": "form-control",
+                "name": "api-port",
+                "value": "22105",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Companey Number",
+                "className": "form-control",
+                "name": "companey-number",
+                "value": "200",
+                "subtype": "text"
+            }, 
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Head",
+                "className": "form-control",
+                "name": "plant_head",
+                "value": "BrandiX Essentials Limited,Koggala",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Address",
+                "className": "form-control",
+                "name": "plant_address",
+                "value": "Plot no -12,BEK SEZ,Koggala",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Location",
+                "className": "form-control",
+                "name": "plant_location",
+                "value": "Sri Lanka",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Mo SOAP API",
+                "className": "form-control",
+                "name": "mo_soap_api",
+                "value": "lwsprd",
+                "subtype": "text"
+            },            {
+                "type": "text",
+                "required": true,
+                "label": "M3 System Id",
+                "className": "form-control",
+                "name": "m3_system_id",
+                "value": "10.227.38.36",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Username",
+                "className": "form-control",
+                "name": "m3_user_name",
+                "value": "BAISFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Password",
+                "className": "form-control",
+                "name": "m3_password",
+                "value": "lan@col3",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "M3 Db",
+                "className": "form-control",
+                "name": "m3_db",
+                "value": "BAISFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Server Name",
+                "className": "form-control",
+                "name": "sf_sp_servername",
+                "value": "BAS-DBSRV-01",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP DB Name",
+                "className": "form-control",
+                "name": "sf_sp_dbname",
+                "value": "BEL_RMDashboard",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Username",
+                "className": "form-control",
+                "name": "sf_sp_username",
+                "value": "BEL_SFCS",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "SFCS to FFSP Password",
+                "className": "form-control",
+                "name": "sf_sp_pwd",
+                "value": "2ESwasw!",
+                "subtype": "text"
+            }
+
+        ], 
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
+                "label": "Production Status Connection"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "prod-status-server-name",
+                "value": "BERDBTEST01",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "prod-status-user-name",
+                "value": "SAH_Test_User",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "prod-status-password",
+                "value": "Test@123"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Production Status Database",
+                "className": "form-control",
+                "name": "prod-status-db",
+                "value": "SAH",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "label": "Driver Name",
+                "className": "form-control",
+                "name": "prod-status-driver-name",
+                "value": "Driver={SQL Server Native Client 11.0}",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
+                "label": "HRMS DB Connections"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "hrms-server-name",
+                "value": "192.168.0.110",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "hrms-user-name",
+                "value": "baiall",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "hrms-password",
+                "value": "baiall"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port name",
+                "className": "form-control",
+                "name": "hrms-port",
+                "value": "3308",
+                "subtype": "text"
             }
         ],
         [
@@ -646,6 +1081,63 @@
                 "name": "update_status_mail",
                 "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             }
-        ]
+        ],
+		[
+			{
+			"type": "select",
+			"required": false,
+			"label": "Central Warehouse",
+			"className": "form-control",
+			"name": "central_warehouse",
+			"values": [
+				{
+					"label": "no",
+					"value": "no"
+				},
+				{
+					"label": "yes",
+					"value": "yes",
+					"selected": true
+				}
+			],
+			"value": "yes"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Host",
+				"className": "form-control",
+				"name": "cw_host",
+				"value": "10.227.220.238",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "User Name",
+				"className": "form-control",
+				"name": "cw_username",
+				"value": "baiall",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Password",
+				"className": "form-control",
+				"name": "cw_password",
+				"value": "baiall",
+				"subtype": "text"
+			},
+			{
+				"type": "text",
+				"required": true,
+				"label": "Port",
+				"className": "form-control",
+				"name": "cw_port",
+				"value": "3318",
+				"subtype": "text"
+			}
+		]
     ]
 }
