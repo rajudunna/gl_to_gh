@@ -850,6 +850,49 @@
             {
                 "type": "header",
                 "subtype": "h1",
+                "label": "HRMS DB Connections"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "hrms-server-name",
+                "value": "192.168.0.110",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "hrms-user-name",
+                "value": "baiall",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "hrms-password",
+                "value": "baiall"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port name",
+                "className": "form-control",
+                "name": "hrms-port",
+                "value": "3308",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
                 "label": "DB MSSQL"
             },
             {
