@@ -780,7 +780,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "prod-status-server-name",
-                "value": "BERAPPSRV02",
+                "value": "10.227.50.6",
                 "subtype": "text"
             },
             {
