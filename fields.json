@@ -818,7 +818,50 @@
                 "value": "Driver={SQL Server Native Client 11.0}",
                 "subtype": "text"
             }
-        ], 
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
+                "label": "HRMS DB Connections"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "hrms-server-name",
+                "value": "dummy_host",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "hrms-user-name",
+                "value": "dummy_user",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "hrms-password",
+                "value": "dummy_password"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port name",
+                "className": "form-control",
+                "name": "hrms-port",
+                "value": "3306",
+                "subtype": "text"
+            }
+        ],
         [
             {
                 "type": "header",
