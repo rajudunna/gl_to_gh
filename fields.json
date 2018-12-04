@@ -946,7 +946,7 @@
                 "label": "M3 Database",
                 "className": "form-control",
                 "name": "m3database",
-                "value": "BELMasterUAT",
+                "value": "MRN_V2",
                 "subtype": "text"
             },
             {
