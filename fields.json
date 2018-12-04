@@ -804,7 +804,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "hrms-server-name",
-                "value": "baidbsrv03",
+                "value": "10.227.100.21",
                 "subtype": "text"
             },
             {
