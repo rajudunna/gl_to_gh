@@ -100,6 +100,34 @@
             },
             {
                 "type": "text",
+                "label": "Total Plant Working Hours",
+                "className": "form-control",
+                "name": "tot_plant_working_hrs",
+                "subtype": "text",
+                "value": "20"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Copy FR Plan Qty to Forecast Qty",
+                "className": "form-control",
+                "name": "copy-fr-to-forecast",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                        
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "no"
+            },
+            {
+                "type": "text",
                 "required": true,
                 "label": "Central WH Code",
                 "className": "form-control",
