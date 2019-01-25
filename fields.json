@@ -100,14 +100,6 @@
             },
             {
                 "type": "text",
-                "label": "IMS Boxes",
-                "className": "form-control",
-                "name": "ims_boxes",
-                "subtype": "text",
-                "value": "4"
-            },
-            {
-                "type": "text",
                 "label": "Total Plant Working Hours",
                 "className": "form-control",
                 "name": "tot_plant_working_hrs",
