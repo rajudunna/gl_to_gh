@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "Quantum - (QCI)",
+                "value": "Quantum Clothing India (P) Ltd",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "Lot No 27,Koggala,Habaraduwa",
+                "value": "QCI,Plot #12,BIAC SEZ,Pudimadaka Road,Atchutapuram Mandal,Visakhapatnam-531011,Andhra Pradesh,India",
                 "subtype": "text"
             },
             {
@@ -95,7 +95,7 @@
                 "label": "Plant Location",
                 "className": "form-control",
                 "name": "plant_location",
-                "value": "Sri Lanka",
+                "value": "India",
                 "subtype": "text"
             },
             {
