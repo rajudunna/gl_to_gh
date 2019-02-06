@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "QCI,Plot #12,BIAC SEZ,Pudimadaka Road,Atchutapuram Mandal,Visakhapatnam-531011,Andhra Pradesh,India",
+                "value": "QCI,Plot #12,BIAC SEZ,Pudimadaka Road,<br/>Atchutapuram Mandal,Visakhapatnam-531011,<br/>Andhra Pradesh",
                 "subtype": "text"
             },
             {
