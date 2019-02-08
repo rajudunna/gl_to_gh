@@ -573,6 +573,26 @@
             {
                 "type": "select",
                 "required": true,
+                "label": "Roll Splitting",
+                "className": "form-control",
+                "name": "roll-splitting",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                    
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },            
+            {
+                "type": "select",
+                "required": true,
                 "label": "Sewing_rejection_plant_wise",
                 "className": "form-control",
                 "name": "sewing_rejection",
