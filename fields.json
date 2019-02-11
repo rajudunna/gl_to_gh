@@ -432,10 +432,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail15",
+                "label": "M3 vs SFCS Operation Reporting",
                 "className": "form-control",
-                "name": "mail15",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "name": "m3_vs_sfcs_operation_reporting",
+                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
