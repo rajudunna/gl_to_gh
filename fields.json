@@ -440,9 +440,9 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail15",
+                "label": "M3 vs SFCS Operation Reporting",
                 "className": "form-control",
-                "name": "mail15",
+                "name": "m3_vs_sfcs_operation_reporting",
                 "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,ChathurangaD@brandix.com,DinushaPre@brandix.com"
             },
             {
