@@ -104,7 +104,7 @@
                 "className": "form-control",
                 "name": "tot_plant_working_hrs",
                 "subtype": "text",
-                "value": "20"
+                "value": "9"
             },
             {
                 "type": "select",
