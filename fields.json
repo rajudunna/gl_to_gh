@@ -140,7 +140,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "N86",
+                "value": "BAL",
                 "subtype": "text"				
 			},
             {                
@@ -608,7 +608,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
@@ -647,7 +647,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
@@ -703,7 +703,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "value": "http://brandixm3.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -730,7 +730,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "22105",
+                "value": "21105",
                 "subtype": "text"
             },
             {
@@ -748,7 +748,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsdev",
+                "value": "lwsprd",
                 "subtype": "text"
             },           
             {
@@ -757,7 +757,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.227.38.36",
+                "value": "10.227.40.10",
                 "subtype": "text"
             },
             {
@@ -775,7 +775,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "lan@col3",
+                "value": "fcs@m3pr",
                 "subtype": "text"
             },
             {
@@ -784,7 +784,7 @@
                 "label": "M3 Db",
                 "className": "form-control",
                 "name": "m3_db",
-                "value": "BAISFCS",
+                "value": "M3BRNPRD",
                 "subtype": "text"
             },
             {
