@@ -313,7 +313,7 @@
                "label": "SMTP From Mail",
                "className": "form-control",
                "name": "smtp_mail_from",
-               "value": "bek_sfcs@brandix.com",
+               "value": "bel_sfcs@brandix.com",
                "subtype": "text"
             },
             {
@@ -608,7 +608,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
@@ -703,7 +703,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://eka-mvxsod-01.brandixlk.org",
+                "value": "http://brandixm3.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -730,7 +730,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "22105",
+                "value": "21105",
                 "subtype": "text"
             },
             {
@@ -748,7 +748,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsdev",
+                "value": "lwsprd",
                 "subtype": "text"
             },           
             {
