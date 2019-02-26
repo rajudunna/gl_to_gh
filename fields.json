@@ -543,6 +543,24 @@
                 "value": "yes"
             },
             {
+                "type": "text",
+                "label": "Fabric Validation For Cut Reporting",
+                "className": "form-control",
+                "name": "FabricValidation",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "yes"
+                    },
+                    {
+                        "label": "no",
+                        "value": "no",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
                 "type": "select",
                 "required": true,
                 "label": "Shrinkage inspection",
