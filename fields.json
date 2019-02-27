@@ -269,7 +269,7 @@
                 "label": "SMTP Server Name",
                 "className": "form-control",
                 "name": "smtp-server-name",
-                "value": "smtp.office365.com",
+                "value": "10.227.19.18",
                 "subtype": "text"
             },
             {
@@ -278,7 +278,7 @@
                 "label": "SMTP User Name",
                 "className": "form-control",
                 "name": "smtp-user-name",
-                "value": "bek_sfcs",
+                "value": "bel_sfcs",
                 "subtype": "text"
             },
             {
@@ -296,7 +296,7 @@
                 "label": "SMTP Port",
                 "className": "form-control",
                 "name": "smtp-port",
-                "value": "587",
+                "value": "25",
                 "subtype": "text"
             },
             {
@@ -305,7 +305,7 @@
                "label": "SMTP From Mail",
                "className": "form-control",
                "name": "smtp_mail_from",
-               "value": "bek_sfcs@brandix.com",
+               "value": "bel_sfcs@brandix.com",
                "subtype": "text"
             },
             {
