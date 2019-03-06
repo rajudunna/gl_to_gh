@@ -993,7 +993,7 @@
                 "label": "M3 Database",
                 "className": "form-control",
                 "name": "m3database",
-                "value": "MRN_V2",
+                "value": "MRN",
                 "subtype": "text"
             },
             {
