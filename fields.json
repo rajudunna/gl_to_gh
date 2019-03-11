@@ -948,7 +948,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "mssql-server-name",
-                "value": "GD-SQL-UAT",
+                "value": "GD-BLISQL",
                 "subtype": "text"
             },
             {
@@ -957,7 +957,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "mssql-user-name",
-                "value": "SFCS_BIA_FF",
+                "value": "QI_SFCS",
                 "subtype": "text"
             },
             {
@@ -967,7 +967,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "mssql-password",
-                "value": "Ba@rUpr6"
+                "value": "hEyufR@4"
             },
             {
                 "type": "text",
