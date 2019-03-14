@@ -171,6 +171,14 @@
                 "subtype": "text"
             },
             {
+                "type": "text",
+                "required": true,
+                "label": "WPT Refresh Time",
+                "className": "form-control",
+                "name": "wpt-refresh-time",
+                "value": "10"
+            },
+            {
                 "type": "checkbox-group",
                 "required": true,
                 "label": "Shifts",
