@@ -127,6 +127,25 @@
                 "value": "yes"
             },
             {
+                "type": "select",
+                "required": true,
+                "label": "Detailed Bundle Sticker",
+                "className": "form-control",
+                "name": "detailed-bundle-sticker",
+                "values": [
+                    {
+                        "label": "yes",
+                        "value": "1"
+                    },
+                    {
+                        "label": "no",
+                        "value": "0",
+                        "selected": true
+                    }
+                ],
+                "value": "0"
+            },
+            {
                 "type": "text",
                 "required": true,
                 "label": "Central WH Code",
