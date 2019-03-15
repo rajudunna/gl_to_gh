@@ -195,7 +195,7 @@
                 "label": "WPT Refresh Time",
                 "className": "form-control",
                 "name": "wpt-refresh-time",
-                "value": "10"
+                "value": "1"
             },
             {
                 "type": "checkbox-group",
