@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "Q01",
+                "value": "BLI",
                 "subtype": "text"            
 			},
 			{                
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "Q51",
+                "value": "BAL",
                 "subtype": "text"				
 			},
             {                
