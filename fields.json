@@ -941,7 +941,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "hrms-user-name",
-                "value": "baiall",
+                "value": "bainet",
                 "subtype": "text"
             },
             {
@@ -951,7 +951,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "hrms-password",
-                "value": "baiall"
+                "value": "bainet"
             },
             {
                 "type": "text",
@@ -959,7 +959,7 @@
                 "label": "Port name",
                 "className": "form-control",
                 "name": "hrms-port",
-                "value": "3308",
+                "value": "3306",
                 "subtype": "text"
             }
         ],
