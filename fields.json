@@ -793,7 +793,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsdev",
+                "value": "lwsprd",
                 "subtype": "text"
             },           
             {
@@ -802,7 +802,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.227.38.36",
+                "value": "10.227.40.10",
                 "subtype": "text"
             },
             {
@@ -820,7 +820,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "lan@col3",
+                "value": "fcs@m3pr",
                 "subtype": "text"
             },
             {
@@ -829,7 +829,7 @@
                 "label": "M3 Db",
                 "className": "form-control",
                 "name": "m3_db",
-                "value": "BAISFCS",
+                "value": "M3BRNPRD",
                 "subtype": "text"
             },
             {
