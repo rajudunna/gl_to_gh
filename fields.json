@@ -536,7 +536,7 @@
                         "selected": true
                     }
                 ],
-                "value": "yards"
+                "value": "meters"
             },
             {
                 "type": "select",
