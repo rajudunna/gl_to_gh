@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "N66",
+                "value": "E54",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "N04",
+                "value": "N66",
                 "subtype": "text"
 			},            
 			{                
@@ -257,6 +257,22 @@
                 ],
                 "value": [
                     "A","B","ALL"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "GRN-Details",
+                "name": "grndetails",
+                "values": [
+                    {
+                        "label": "BDD-BAL-E54",
+                        "value": "BDD-BAL-E54",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                    "BDD-BAL-E54"
                 ]
             },
             {
