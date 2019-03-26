@@ -252,6 +252,22 @@
                 ]
             },
             {
+            	"type": "checkbox-group",
+            	"required": true,
+            	"label": "GRN-Details",
+            	"name": "grndetails",
+            	"values": [
+            		{
+            			"label": "BEL-BAL-207",
+            			"value": "BEL-BAL-207",
+            			"selected": true
+            		}
+            	],
+            	"value": [
+            		"BEL-BAL-207"
+            	]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
