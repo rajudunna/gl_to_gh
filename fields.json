@@ -260,6 +260,22 @@
                 ]
             },
             {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "GRN-Details",
+                "name": "grndetails",
+                "values": [
+                    {
+                        "label": "BEL-BAL-E54",
+                        "value": "BEL-BAL-E54",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                    "BEL-BAL-E54"
+                ]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
