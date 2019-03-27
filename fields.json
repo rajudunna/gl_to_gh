@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "E54",
+                "value": "N66",
                 "subtype": "text"            
 			},
             {                
@@ -266,13 +266,13 @@
                 "name": "grndetails",
                 "values": [
                     {
-                        "label": "BDD-BAL-E54",
-                        "value": "BDD-BAL-E54",
+                        "label": "BDD-BAL-N66",
+                        "value": "BDD-BAL-N66",
                         "selected": true
                     }
                 ],
                 "value": [
-                    "BDD-BAL-E54"
+                    "BDD-BAL-N66"
                 ]
             },
             {
