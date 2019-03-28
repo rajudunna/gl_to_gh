@@ -261,16 +261,10 @@
             			"label": "BEL-BAL-207",
             			"value": "BEL-BAL-207",
             			"selected": true
-            		},
-            		{
-            			"label": "BEL-BAL-AIP",
-            			"value": "BEL-BAL-AIP",
-            			"selected": true
             		}
             	],
             	"value": [
-            		"BEL-BAL-207",
-            		"BEL-BAL-AIP"
+            		"BEL-BAL-207"
             	]
             },
             {
@@ -842,7 +836,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.227.40.10",
+                "value": "10.227.38.36",
                 "subtype": "text"
             },
             {
@@ -860,7 +854,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "fcs@m3pr",
+                "value": "lan@col3",
                 "subtype": "text"
             },
             {
@@ -869,7 +863,7 @@
                 "label": "M3 Db",
                 "className": "form-control",
                 "name": "m3_db",
-                "value": "M3BRNPRD",
+                "value": "BAISFCS",
                 "subtype": "text"
             },
             {
