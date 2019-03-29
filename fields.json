@@ -260,6 +260,22 @@
                 ]
             },
             {
+            	"type": "checkbox-group",
+            	"required": true,
+            	"label": "GRN-Details",
+            	"name": "grndetails",
+            	"values": [
+            		{
+            			"label": "BLI-BAL-Q51",
+            			"value": "BLI-BAL-Q51",
+            			"selected": true
+            		}
+            	],
+            	"value": [
+            		"BLI-BAL-Q51"
+            	]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
