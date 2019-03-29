@@ -252,6 +252,22 @@
                 ]
             },
             {
+            	"type": "checkbox-group",
+            	"required": true,
+            	"label": "GRN-Details",
+            	"name": "grndetails",
+            	"values": [
+            		{
+            			"label": "BCB-BAL-J51",
+            			"value": "BCB-BAL-J51",
+            			"selected": true
+            		}
+            	],
+            	"value": [
+            		"BCB-BAL-J51"
+            	]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
