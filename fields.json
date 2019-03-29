@@ -252,6 +252,22 @@
                 ]
             },
             {
+            	"type": "checkbox-group",
+            	"required": true,
+            	"label": "GRN-Details",
+            	"name": "grndetails",
+            	"values": [
+            		{
+            			"label": "BDD-BAL-N66",
+            			"value": "BDD-BAL-N66",
+            			"selected": true
+            		}
+            	],
+            	"value": [
+            		"BDD-BAL-N66"
+            	]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
