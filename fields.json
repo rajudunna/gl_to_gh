@@ -263,14 +263,14 @@
             			"selected": true
             		},
             		{
-            			"label": "BEL-BAL-AIP",
-            			"value": "BEL-BAL-AIP",
+            			"label": "BEL-AIP-AIP",
+            			"value": "BEL-AIP-AIP",
             			"selected": true
             		}
             	],
             	"value": [
             		"BEL-BAL-207",
-            		"BEL-BAL-AIP"
+            		"BEL-AIP-AIP"
             	]
             },
             {
