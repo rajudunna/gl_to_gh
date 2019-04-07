@@ -819,7 +819,7 @@
                 "label": "M3 Username",
                 "className": "form-control",
                 "name": "m3_user_name",
-                "value": "BAISFCS",
+                "value": "BAISFCS@brandix.com",
                 "subtype": "text"
             },
             {
