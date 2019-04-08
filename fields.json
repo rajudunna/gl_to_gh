@@ -700,7 +700,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
@@ -720,7 +720,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "checkbox-group",
