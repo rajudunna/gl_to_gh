@@ -801,7 +801,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsprd",
+                "value": "services",
                 "subtype": "text"
             },
             {
