@@ -806,39 +806,22 @@
             {
                 "type": "text",
                 "required": true,
-                "label": "Plant Head",
-                "className": "form-control",
-                "name": "plant_head",
-                "value": "BrandiX Essentials Limited,Koggala",
-                "subtype": "text"
-            },
-            {
-                "type": "text",
-                "required": true,
-                "label": "Plant Address",
-                "className": "form-control",
-                "name": "plant_address",
-                "value": "Plot no -12,BEK SEZ,Koggala",
-                "subtype": "text"
-            },
-            {
-                "type": "text",
-                "required": true,
-                "label": "Plant Location",
-                "className": "form-control",
-                "name": "plant_location",
-                "value": "Sri Lanka",
-                "subtype": "text"
-            },
-            {
-                "type": "text",
-                "required": true,
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsprd",
+                "value": "/lws-ws/lwsdev/SFCS?wsdl",
                 "subtype": "text"
-            },            {
+            },
+            {
+                "type": "number",
+                "required": true,
+                "label": "API CALL TIME OUT",
+                "className": "form-control",
+                "info" : "Pass seconds as value",
+                "name": "api_call_time_out",
+                "value": 900
+            },
+            {
                 "type": "text",
                 "required": true,
                 "label": "M3 System Id",
