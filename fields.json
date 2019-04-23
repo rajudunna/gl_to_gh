@@ -984,7 +984,7 @@
                 "label": "Port name",
                 "className": "form-control",
                 "name": "hrms-port",
-                "value": "3308",
+                "value": "3314",
                 "subtype": "text"
             },
             {
@@ -993,7 +993,7 @@
                 "required": true,
                 "label": "EMP_active_status",
                 "className": "form-control",
-                "name": "Status",
+                "name": "emp_active_status",
                 "value": "45,50,55,11"
             }
         ],
