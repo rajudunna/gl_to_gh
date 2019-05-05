@@ -1021,6 +1021,15 @@
                 "name": "hrms-port",
                 "value": "3306",
                 "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "text",
+                "required": true,
+                "label": "EMP Active Status",
+                "className": "form-control",
+                "name": "emp_active_status",
+                "value": "45,50,55,11"
             }
         ],
         [
