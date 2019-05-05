@@ -1027,9 +1027,9 @@
             },
             {
                 "type": "text",
-                "subtype": "emp_active_status",
+                "subtype": "text",
                 "required": true,
-                "label": "EMP_active_status",
+                "label": "EMP Active Status",
                 "className": "form-control",
                 "name": "emp_active_status",
                 "value": "45,50,55,11"
