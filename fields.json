@@ -808,8 +808,17 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "lwsprd",
+                "value": "/lws-ws/lwsprd/SFCS?wsdl",
                 "subtype": "text"
+            },       
+            {
+                "type": "number",
+                "required": true,
+                "label": "API CALL TIME OUT",
+                "className": "form-control",
+                "info" : "Pass seconds as value",
+                "name": "api_call_time_out",
+                "value": 900
             },
             {
                 "type": "text",
