@@ -88,6 +88,15 @@
                 "name": "plant_address",
                 "value": "DEMO Plant",
                 "subtype": "text"
+            },       
+            {
+                "type": "number",
+                "required": true,
+                "label": "API CALL TIME OUT",
+                "className": "form-control",
+                "info" : "Pass seconds as value",
+                "name": "api_call_time_out",
+                "value": 900
             },
             {
                 "type": "text",
