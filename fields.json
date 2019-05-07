@@ -853,7 +853,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "services",
+                "value": "/mws-ws/services/SFCS?wsdl",
                 "subtype": "text"
             },       
             {
