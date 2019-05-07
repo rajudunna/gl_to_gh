@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "Quantum Clothing India (P) Ltd",
+                "value": "BFFW Plant",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "Q01",
+                "value": "N02",
                 "subtype": "text"
             },
 			{
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BLI",
+                "value": "BDDK",
                 "subtype": "text"            
 			},
 			{                
@@ -95,7 +95,7 @@
                 "label": "Plant Location",
                 "className": "form-control",
                 "name": "plant_location",
-                "value": "India",
+                "value": "Sri Lanka",
                 "subtype": "text"
             },
             {
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "BAL",
+                "value": "N52",
                 "subtype": "text"				
 			},
             {                
@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "Q51",
+                "value": "N52",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "Q01",
+                "value": "N02",
                 "subtype": "text"
 			},            
 			{                
@@ -286,7 +286,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "QCI",
+                "value": "BFFW",
                 "subtype": "text"
             },
             {
@@ -303,7 +303,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "06:00:00"
+                "value": "08:00:00"
             },
             {
                 "type": "text",
@@ -311,7 +311,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "22:00:00"
+                "value": "17:45:00"
             }
         ],
         [
