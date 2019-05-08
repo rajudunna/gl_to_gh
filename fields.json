@@ -217,7 +217,7 @@
                     }
                 ],
                 "value": [
-                   "general"
+                    "A","B"
                 ]
             },
             {
@@ -248,7 +248,7 @@
                     }
                 ],
                 "value": [
-                    "general","ALL"
+                     "A","B","ALL"
                 ]
             },
             {
@@ -289,7 +289,7 @@
 			 "className": "form-control",
 			 "name": "plant-start-time",
 			 "subtype": "text",
-			 "value": "7:30:00"
+			 "value": "6:00:00"
 			 },
 			 {
 			 "type": "text",
@@ -297,7 +297,7 @@
 			 "className": "form-control",
 			 "name": "plant-end-time",
 			 "subtype": "text",
-			 "value": "18:00:00"
+			 "value": "22:00:00"
 			 }
         ],
         [
