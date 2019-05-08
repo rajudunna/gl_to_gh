@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.75.152.106",
+        "db_host": "10.227.100.106",
         "db_user": "baiall",
         "db_pass": "baiall",
-        "db_port": "3308"
+        "db_port": "3314"
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BFFW Plant",
+                "value": "BLI Plant",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "N02",
+                "value": "L01",
                 "subtype": "text"
             },
 			{
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BDDK",
+                "value": "BLI",
                 "subtype": "text"            
 			},
 			{                
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "N52",
+                "value": "L51",
                 "subtype": "text"				
 			},
             {                
@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "N52",
+                "value": "L51",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "N02",
+                "value": "L01",
                 "subtype": "text"
 			},            
 			{                
@@ -286,7 +286,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BFFW",
+                "value": "BLI",
                 "subtype": "text"
             },
             {
@@ -303,7 +303,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "08:00:00"
+                "value": "07:45:00"
             },
             {
                 "type": "text",
@@ -311,7 +311,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "17:45:00"
+                "value": "17:30:00"
             }
         ],
         [
