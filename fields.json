@@ -266,19 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BLI-BAL-Q51",
-            			"value": "BLI-BAL-Q51",
-            			"selected": true
-            		},
-        			{
-            			"label": "BLI-Q01-Q01",
-            			"value": "BLI-Q01-Q01",
+            			"label": "BDDK-N52-N52",
+            			"value": "BDDK-N52-N52",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BLI-BAL-Q51",
-            		"BLI-Q01-Q01"	
+            		"BDDK-N52-N52"	
             	]
             },
             {
