@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "L51",
+                "value": "BAL",
                 "subtype": "text"				
 			},
             {                
@@ -266,13 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BLI-L51-L51",
-            			"value": "BLI-L51-L51",
+            			"label": "BLI-BAL-L51",
+            			"value": "BLI-BAL-L51",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BLI-L51-L51"	
+            		"BLI-BAL-L51"	
             	]
             },
             {
