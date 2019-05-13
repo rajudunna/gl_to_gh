@@ -696,6 +696,44 @@
                 ],
                 "value": "YES"
             },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Enable 4*2 Barcodes",
+                "className": "form-control",
+                "name": "4x2-barcode",
+                "values": [
+                    {
+                        "label": "YES",
+                        "value": "YES"
+                    },
+                    {
+                        "label": "NO",
+                        "value": "NO",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
+            {
+                "type": "select",
+                "required": true,
+                "label": "Enable 2*1 Barcodes",
+                "className": "form-control",
+                "name": "2x1-barcode",
+                "values": [
+                    {
+                        "label": "YES",
+                        "value": "YES"
+                    },
+                    {
+                        "label": "NO",
+                        "value": "NO",
+                        "selected": true
+                    }
+                ],
+                "value": "yes"
+            },
 			{
                 "type": "select",
                 "required": true,
