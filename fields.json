@@ -725,7 +725,7 @@
                         "selected": true
                     }
                 ],
-                "value": "yes"
+                "value": "NO"
             },
             {
                 "type": "select",
