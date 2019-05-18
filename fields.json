@@ -848,7 +848,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "services",
+                "value": "/mws-ws/services/SFCS?wsdl",
                 "subtype": "text"
             },
             {
@@ -857,7 +857,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.10.130.36",
+                "value": "10.20.140.10",
                 "subtype": "text"
             },
             {
