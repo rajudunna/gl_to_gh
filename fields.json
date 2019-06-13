@@ -297,7 +297,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "10:00:00"
+                "value": "22:00:00"
             }
         ],
         [
