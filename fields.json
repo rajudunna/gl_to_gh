@@ -802,7 +802,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://brandixm3.brandixlk.org",
+                "value": "https://m3isostg.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -811,7 +811,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "api-user-name",
-                "value": "BEL_SFCS",
+                "value": "BEL_SFCS@brandix.com",
                 "subtype": "text"
             },
             {
@@ -829,7 +829,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "21105",
+                "value": "25008",
                 "subtype": "text"
             },
             {
@@ -865,7 +865,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.227.40.10",
+                "value": "10.20.40.18",
                 "subtype": "text"
             },
             {
