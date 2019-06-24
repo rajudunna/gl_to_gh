@@ -274,6 +274,22 @@
             	]
             },
             {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "Stock-Report-Product-Group",
+                "name": "stock_report_product_group",
+                "values": [
+                    {
+                        "label": "Fabric",
+                        "value": "Fabric",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                    "Fabric"
+                ]
+            },
+            {
                 "type": "text",
                 "label": "Plant Alert Code",
                 "className": "form-control",
