@@ -296,7 +296,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BEK",
+                "value": "BDDK",
                 "subtype": "text"
             },
             {
