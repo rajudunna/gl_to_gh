@@ -225,7 +225,7 @@
                     }
                 ],
                 "value": [
-                   "A","B"
+                   "general"
                 ]
             },
             {
@@ -256,7 +256,7 @@
                     }
                 ],
                 "value": [
-                    "A","B","ALL"
+                    "general"
                 ]
             },
             {
@@ -266,13 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BDDK-N52-N52",
-            			"value": "BDDK-N52-N52",
+            			"label": "BIA-BAL-N52",
+            			"value": "BIA-BAL-N52",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BDDK-N52-N52"	
+            		"BIA-BAL-N52"	
             	]
             },
             {
