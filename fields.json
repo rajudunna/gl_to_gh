@@ -272,7 +272,7 @@
                     }
                 ],
                 "value": [
-                    "BLI-BAL-207"
+                    "BLI-BAL-Q51"
                 ]
             },
             {
@@ -818,7 +818,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://brandixm3.brandixlk.org",
+                "value": "http://m3isostg.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -827,7 +827,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "api-user-name",
-                "value": "BEL_SFCS",
+                "value": "brandixlk\\BEL_SFCS",
                 "subtype": "text"
             },
             {
@@ -845,7 +845,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "21105",
+                "value": "25007",
                 "subtype": "text"
             },
             {
@@ -863,7 +863,7 @@
                 "label": "Mo SOAP API",
                 "className": "form-control",
                 "name": "mo_soap_api",
-                "value": "/lws-ws/lwsprd/SFCS?wsdl",
+                "value": "/mws-ws/services/SFCS?wsdl",
                 "subtype": "text"
             },
             {
@@ -881,7 +881,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.227.38.36",
+                "value": "10.20.140.18",
                 "subtype": "text"
             },
             {
@@ -899,7 +899,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "lan@col3",
+                "value": "fcs@m3pr",
                 "subtype": "text"
             },
             {
