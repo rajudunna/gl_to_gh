@@ -785,6 +785,26 @@
                 "value": "no"
             },
             {
+            	"type": "select",
+            	"required": true,
+            	"label": "Packing Method Selection Option",
+            	"className": "form-control",
+            	"name": "pack_code",
+            	"values": [
+            		{
+            			"label": "yes",
+            			"value": "yes"
+            			
+            		},
+            		{
+            			"label": "no",
+            			"value": "no",
+            			"selected": true
+            		}
+            	],
+            	"value": "yes"
+            },
+            {
                 "type": "checkbox-group",
                 "required": true,
                 "label": "Category Display in Dashboard",
