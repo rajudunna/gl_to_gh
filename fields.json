@@ -845,7 +845,7 @@
                 "label": "Port",
                 "className": "form-control",
                 "name": "api-port",
-                "value": "25007",
+                "value": "63925",
                 "subtype": "text"
             },
             {
@@ -874,7 +874,7 @@
                 "info" : "Pass seconds as value",
                 "name": "api_call_time_out",
                 "value": 900
-            },         
+            },           
             {
                 "type": "text",
                 "required": true,
