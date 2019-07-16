@@ -838,7 +838,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://m3isostg.brandixlk.org",
+                "value": "http://ekbdxstg.brandixlk.org",
                 "subtype": "text"
             },
             {
