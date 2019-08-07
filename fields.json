@@ -987,7 +987,7 @@
                 "label": "Promis Check",
                 "className": "form-control",
                 "name": "promis_val",
-                "value": "1",
+                "value": "0",
                 "subtype": "text"
             },
             {
