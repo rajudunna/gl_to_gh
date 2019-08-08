@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.75.152.106",
+        "db_host": "10.20.154.66",
         "db_user": "baiall",
         "db_pass": "baiall",
-        "db_port": "3308"
+        "db_port": "3309"
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BFFW Plant",
+                "value": "BFFAV1 Plant",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "N02",
+                "value": "N27",
                 "subtype": "text"
             },
 			{
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BDDK",
+                "value": "BFFAV2",
                 "subtype": "text"            
 			},
 			{                
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "N52",
+                "value": "N77",
                 "subtype": "text"				
 			},
             {                
@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "N52",
+                "value": "N77",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "N02",
+                "value": "N27",
                 "subtype": "text"
 			},            
 			{                
@@ -266,13 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BIA-BAL-N52",
-            			"value": "BIA-BAL-N52",
+            			"label": "BIA-BAL-N77",
+            			"value": "BIA-BAL-N77",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BIA-BAL-N52"	
+            		"BIA-BAL-N77"	
             	]
             },
             {
@@ -296,7 +296,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BFFW",
+                "value": "BFFAV2",
                 "subtype": "text"
             },
             {
