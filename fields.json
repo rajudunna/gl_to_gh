@@ -980,6 +980,15 @@
                 "subtype": "h1",
                 "label": "DB MSSQL"
             },
+			{
+                "type": "text",
+                "required": true,
+                "label": "Promis Check",
+                "className": "form-control",
+                "name": "promis_val",
+                "value": "0",
+                "subtype": "text"
+            },
             {
                 "type": "text",
                 "required": true,
