@@ -966,7 +966,76 @@
                 "value": "2ESwasw!",
                 "subtype": "text"
             }
-        ],
+        ], 
+		[
+            {
+                "type": "header",
+                "subtype": "h1",
+                "label": "DB MSSQL"
+            },
+			{
+                "type": "text",
+                "required": true,
+                "label": "Promis Check",
+                "className": "form-control",
+                "name": "promis_val",
+                "value": "0",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "promis-server-name",
+                "value": "10.227.60.8",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "promis-user-name",
+                "value": "SFCS_User",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "promis-password",
+                "value": "welcome@123"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "promis Database",
+                "className": "form-control",
+                "name": "promisdatabase",
+                "value": "ProMIS_SX_UAT",
+                "subtype": "text"
+            },
+			{
+                "type": "text",
+                "label": "Driver Name",
+                "className": "form-control",
+                "name": "promis_driver_name",
+                "value": "Driver={SQL Server Native Client 11.0}",
+                "subtype": "text"
+            },
+			{
+                "type": "text",
+                "required": true,
+                "label": "ODBC Name (MYSQL)",
+                "className": "form-control",
+                "name": "promis_mysql-odbc",
+                "value": "test-mysql",
+                "subtype": "text"
+            }
+		],
         [
             {
                 "type": "header",
