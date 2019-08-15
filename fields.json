@@ -974,7 +974,7 @@
                 "label": "Promis Check",
                 "className": "form-control",
                 "name": "promis_val",
-                "value": "0",
+                "value": "1",
                 "subtype": "text"
             },
             {
@@ -1010,7 +1010,7 @@
                 "label": "promis Database",
                 "className": "form-control",
                 "name": "promisdatabase",
-                "value": "ProMIS_SX_UAT",
+                "value": "ProMIS_SX",
                 "subtype": "text"
             },
 			{
