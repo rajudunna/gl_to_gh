@@ -937,7 +937,7 @@
                 "label": "SFCS to FFSP Server Name",
                 "className": "form-control",
                 "name": "sf_sp_servername",
-                "value": "BAS-DBSRV-01",
+                "value": "GD-BLISQL",
                 "subtype": "text"
             },
             {
@@ -946,7 +946,7 @@
                 "label": "SFCS to FFSP DB Name",
                 "className": "form-control",
                 "name": "sf_sp_dbname",
-                "value": "BEL_RMDashboard",
+                "value": "BLI_RMDashboard",
                 "subtype": "text"
             },
             {
@@ -955,7 +955,7 @@
                 "label": "SFCS to FFSP Username",
                 "className": "form-control",
                 "name": "sf_sp_username",
-                "value": "BEL_SFCS",
+                "value": "BLISFCS",
                 "subtype": "text"
             },
             {
@@ -964,7 +964,7 @@
                 "label": "SFCS to FFSP Password",
                 "className": "form-control",
                 "name": "sf_sp_pwd",
-                "value": "",
+                "value": "TA@apu4u",
                 "subtype": "text"
             }
         ], 
