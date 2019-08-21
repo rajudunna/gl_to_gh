@@ -295,7 +295,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BFFMR1",
+                "value": "BFFAV2",
                 "subtype": "text"
             },
             {
