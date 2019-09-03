@@ -1197,7 +1197,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "mssql-server-name",
-                "value": "COL-CLSDB-04",
+                "value": "GD-BLISQL",
                 "subtype": "text"
             },
             {
