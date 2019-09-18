@@ -20,7 +20,7 @@
         "db_host": "10.227.100.106",
         "db_user": "baiall",
         "db_pass": "baiall",
-        "db_port": "3314"
+        "db_port": "3317"
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BLI Plant",
+                "value": "BAI3 Plant",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "L01",
+                "value": "A03",
                 "subtype": "text"
             },
 			{
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BLI",
+                "value": "BEL",
                 "subtype": "text"            
 			},
 			{                
@@ -68,7 +68,7 @@
                 "label": "Company No",
                 "className": "form-control",
                 "name": "company_no",
-                "value": "200",
+                "value": "A03",
                 "subtype": "text"
 			},
             {
@@ -77,7 +77,7 @@
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "Brandix apparel solution -Lingerie",
+                "value": "Brandix Apparel India (P) Ltd",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "QCI,Plot #12,BIAC SEZ,Pudimadaka Road,<br/>Atchutapuram Mandal,Visakhapatnam-531011,<br/>Andhra Pradesh",
+                "value": "Unit-III, Plot # 7,BIAC SEZ,Visakhapatnam-531011.",
                 "subtype": "text"
             },
             {
@@ -95,7 +95,7 @@
                 "label": "Plant Location",
                 "className": "form-control",
                 "name": "plant_location",
-                "value": "Sri Lanka",
+                "value": "India",
                 "subtype": "text"
             },
             {
@@ -112,7 +112,7 @@
                 "className": "form-control",
                 "name": "tot_plant_working_hrs",
                 "subtype": "text",
-                "value": "15"
+                "value": "16"
             },
             {
                 "type": "select",
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "BAL",
+                "value": "A03",
                 "subtype": "text"				
 			},
             {                
@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "L51",
+                "value": "A03",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "L01",
+                "value": "A03",
                 "subtype": "text"
 			},            
 			{                
@@ -266,13 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BLI-BAL-L51",
-            			"value": "BLI-BAL-L51",
+            			"label": "BEL-A03-A03",
+            			"value": "BEL-A03-A03",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BLI-BAL-L51"	
+            		"BEL-A03-A03"	
             	]
             },
             {
@@ -296,7 +296,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BLI",
+                "value": "BAI3",
                 "subtype": "text"
             },
             {
@@ -313,7 +313,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "07:45:00"
+                "value": "06:00:00"
             },
             {
                 "type": "text",
@@ -321,7 +321,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "17:30:00"
+                "value": "22:00:00"
             }
         ],
         [
