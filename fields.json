@@ -507,10 +507,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail16",
+                "label": "Short Shipment Mail",
                 "className": "form-control",
-                "name": "mail16",
-                "value": "KrishanthaGu@brandix.com,SachithV@brandix.com,YasankaP@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "name": "short_shipment_mail",
+                "value": "test@gmail.com"
             },
             {
                 "type": "text",
