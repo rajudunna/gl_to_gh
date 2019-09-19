@@ -513,10 +513,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail16",
+                "label": "Short Shipment Mail",
                 "className": "form-control",
-                "name": "mail16",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "name": "short_shipment_mail",
+                "value": "test@gmail.com"
             },
             {
                 "type": "text",
