@@ -499,9 +499,9 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail16",
+                "label": "Short Shipment Mail",
                 "className": "form-control",
-                "name": "mail16",
+                "name": "short_shipment_mail",
                 "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,ChathurangaD@brandix.com,DinushaPre@brandix.com"
             },
             {
