@@ -505,10 +505,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail16",
+                "label": "Short Shipment Mail",
                 "className": "form-control",
-                "name": "mail16",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "name": "short_shipment_mail",
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
             },
             {
                 "type": "text",
