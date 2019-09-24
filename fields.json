@@ -503,7 +503,7 @@
                 "className": "form-control",
                 "name": "m3_vs_sfcs_operation_reporting",
                 "value": "shaliayas@brandix.com,bhargavg@schemaxtech.com,anilkumarg@brandix.com"
-            ,
+            },
             {
                 "type": "text",
                 "subtype": "email",
