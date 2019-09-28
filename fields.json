@@ -921,7 +921,7 @@
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.20.140.18",
+                "value": "10.20.140.16",
                 "subtype": "text"
             },
             {
@@ -939,7 +939,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "fcs@m3pr",
+                "value": "bal@200",
                 "subtype": "text"
             },
             {
@@ -948,7 +948,7 @@
                 "label": "M3 Db",
                 "className": "form-control",
                 "name": "m3_db",
-                "value": "M3BRNPRD",
+                "value": "M3BRNUAT",
                 "subtype": "text"
             },
             {
