@@ -167,7 +167,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "N51",
+                "value": "N01",
                 "subtype": "text"
             },
             {
