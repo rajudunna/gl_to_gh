@@ -921,7 +921,16 @@
                 "info" : "Pass seconds as value",
                 "name": "api_call_time_out",
                 "value": 900
-            },         
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Rm Dashboard API",
+                "className": "form-control",
+                "name": "rm_dashboard_api",
+                "value": "http://gd-app-01/rmd/",
+                "subtype": "text"
+            },
             {
                 "type": "text",
                 "required": true,
