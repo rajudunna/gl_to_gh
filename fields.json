@@ -921,7 +921,7 @@
                 "label": "Rm Dashboard API",
                 "className": "form-control",
                 "name": "rm_dashboard_api",
-                "value": "http://gd-app-01/rmd/",
+                "value": "http://gd-app-01/rmdbli/",
                 "subtype": "text"
             },          
             {
