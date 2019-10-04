@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "N51",
+                "value": "N01",
                 "subtype": "text"
             },
             {
@@ -176,7 +176,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "N51",
+                "value": "N01",
                 "subtype": "text"
             },
             {
