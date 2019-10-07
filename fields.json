@@ -77,7 +77,7 @@
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "Brandix apparel solution -Lingerie",
+                "value": "Brandix Apparels Solutions Limited",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "Lot No 27,Koggala,Habaraduwa",
+                "value": "Lingerie Wathupitwala EPZ, Nittambuwa",
                 "subtype": "text"
             },
             {
