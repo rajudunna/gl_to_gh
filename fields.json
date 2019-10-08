@@ -1136,6 +1136,67 @@
             {
                 "type": "header",
                 "subtype": "h1",
+                "label": "Old SFCS DB Connections"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "old_sfcs_name",
+                "value": "10.227.220.212",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "old_sfcs_user",
+                "value": "baiall",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "old_db_pass",
+                "value": "Beb@Max"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Port name",
+                "className": "form-control",
+                "name": "old_sfcs_port",
+                "value": "3306",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Plant Code Old",
+                "className": "form-control",
+                "name": "plantcode_old",
+                "value": "EBC",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Company Number Old",
+                "className": "form-control",
+                "name": "company_no_old",
+                "value": "200",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
                 "label": "DB MSSQL"
             },
             {
