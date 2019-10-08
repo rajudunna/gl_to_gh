@@ -1140,6 +1140,67 @@
             }
         ],
         [
+        	{
+        		"type": "header",
+        		"subtype": "h1",
+        		"label": "Old SFCS DB Connections"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Server Name",
+        		"className": "form-control",
+        		"name": "old_sfcs_name_bai1",
+        		"value": "10.227.100.8",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "User Name",
+        		"className": "form-control",
+        		"name": "old_sfcs_user_bai1",
+        		"value": "bai1_old_sfcs",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"subtype": "password",
+        		"required": true,
+        		"label": "Password",
+        		"className": "form-control",
+        		"name": "old_db_pass_bai1",
+        		"value": "Bai1@Max"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Port name",
+        		"className": "form-control",
+        		"name": "old_sfcs_port_bai1",
+        		"value": "3306",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Plant Code Old",
+        		"className": "form-control",
+        		"name": "plantcode_old_bai1",
+        		"value": "AIN",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Company Number Old",
+        		"className": "form-control",
+        		"name": "company_no_old_bai1",
+        		"value": "200",
+        		"subtype": "text"
+        	}
+        ],
+        [
             {
                 "type": "header",
                 "subtype": "h1",
