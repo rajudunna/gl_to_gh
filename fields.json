@@ -101,6 +101,15 @@
             {
                 "type": "text",
                 "required": true,
+                "label": "Rm Dashboard API",
+                "className": "form-control",
+                "name": "rm_dashboard_api",
+                "value": "http://gd-app-01/rmd/",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
                 "label": "Plant Location",
                 "className": "form-control",
                 "name": "plant_location",
