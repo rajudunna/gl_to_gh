@@ -898,6 +898,15 @@
             {
                 "type": "text",
                 "required": true,
+                "label": "Rm Dashboard API",
+                "className": "form-control",
+                "name": "rm_dashboard_api",
+                "value": "http://gd-app-01/rmdbia/",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
