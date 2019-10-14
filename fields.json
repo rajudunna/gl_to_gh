@@ -1001,7 +1001,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "promis-user-name",
-                "value": "SFCS_User",
+                "value": "SFCS_PRD_USER",
                 "subtype": "text"
             },
             {
@@ -1011,7 +1011,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "promis-password",
-                "value": "welcome@123"
+                "value": "promis@4321#"
             },
             {
                 "type": "text",
