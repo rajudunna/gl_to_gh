@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BDD",
+                "value": "BIA",
                 "subtype": "text"            
 			},
 			{                
