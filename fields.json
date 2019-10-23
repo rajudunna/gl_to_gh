@@ -1250,7 +1250,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "belwisdom-prod-status-server-name",
-                "value": "BCI-CTSQL-01\BELCTSQL",
+                "value": "BCI-CTSQL-01\\BELCTSQL",
                 "subtype": "text"
             },
             {
