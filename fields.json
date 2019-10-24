@@ -68,7 +68,7 @@
                 "label": "Company No",
                 "className": "form-control",
                 "name": "company_no",
-                "value": "A03",
+                "value": "200",
                 "subtype": "text"
 			},
             {
