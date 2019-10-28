@@ -1259,7 +1259,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "belwisdom-prod-status-user-name",
-                "value": "SFCS_User",
+                "value": "OperationsDB2_User",
                 "subtype": "text"
             },
             {
@@ -1269,7 +1269,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "belwisdom-prod-status-password",
-                "value": "yhnmko@987"
+                "value": "welcome@123#"
             },
             {
                 "type": "text",
