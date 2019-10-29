@@ -1216,6 +1216,58 @@
             {
                 "type": "header",
                 "subtype": "h1",
+                "label": "BEL WISDOM lost hours"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Server Name",
+                "className": "form-control",
+                "name": "belwisdom-prod-status-server-name",
+                "value": "BCI-CTSQL-01\\BELCTSQL",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "User Name",
+                "className": "form-control",
+                "name": "belwisdom-prod-status-user-name",
+                "value": "SFCS_User",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "Password",
+                "className": "form-control",
+                "name": "belwisdom-prod-status-password",
+                "value": "yhnmko@987"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "BEL WISDOM Database",
+                "className": "form-control",
+                "name": "belwisdom-prod-status-db",
+                "value": "OperationsDB2_Overhead",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "BEL WISDOM Table",
+                "className": "form-control",
+                "name": "belwisdom-prod-status-table",
+                "value": "OverheadForecastMonitoring1Reasons_UAT",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
                 "label": "SFCS Mails"
             },
             {
