@@ -910,7 +910,7 @@
                 "label": "Host Name",
                 "className": "form-control",
                 "name": "api-host-name",
-                "value": "http://ekbdxstg.brandixlk.org",
+                "value": "http://colbdxprd.brandixlk.org",
                 "subtype": "text"
             },
             {
@@ -919,7 +919,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "api-user-name",
-                "value": "brandixlk\\BEL_SFCS",
+                "value": "BEL_SFCS@brandix.com",
                 "subtype": "text"
             },
             {
@@ -973,16 +973,16 @@
                 "label": "Rm Dashboard API",
                 "className": "form-control",
                 "name": "rm_dashboard_api",
-                "value": "http://gd-app-01/rmd/",
+                "value": "http://gd-app-01/rmdbia/",
                 "subtype": "text"
-            },          
+            },
             {
                 "type": "text",
                 "required": true,
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.20.140.16",
+                "value": "10.20.140.10",
                 "subtype": "text"
             },
             {
@@ -1000,7 +1000,7 @@
                 "label": "M3 Password",
                 "className": "form-control",
                 "name": "m3_password",
-                "value": "bal@200",
+                "value": "fcs@m3pr",
                 "subtype": "text"
             },
             {
@@ -1009,7 +1009,7 @@
                 "label": "M3 Db",
                 "className": "form-control",
                 "name": "m3_db",
-                "value": "M3BRNUAT",
+                "value": "M3BRNPRD",
                 "subtype": "text"
             },
             {
