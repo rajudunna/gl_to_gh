@@ -1269,7 +1269,7 @@
                 "value": "Driver={SQL Server Native Client 11.0}",
                 "subtype": "text"
             }
-        ,
+        ],
         [
             {
                 "type": "header",
