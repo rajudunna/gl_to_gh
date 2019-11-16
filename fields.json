@@ -1152,7 +1152,7 @@
         	{
         		"type": "header",
         		"subtype": "h1",
-        		"label": "Old SFCS DB Connections"
+        		"label": "Old BAI1 SFCS DB Connections"
         	},
         	{
         		"type": "text",
@@ -1205,6 +1205,67 @@
         		"label": "Company Number Old",
         		"className": "form-control",
         		"name": "company_no_old_bai1",
+        		"value": "200",
+        		"subtype": "text"
+        	}
+        ],
+		[
+        	{
+        		"type": "header",
+        		"subtype": "h1",
+        		"label": "Old BAI2 SFCS DB Connections"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Server Name",
+        		"className": "form-control",
+        		"name": "old_sfcs_name_bai2",
+        		"value": "10.227.100.18",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "User Name",
+        		"className": "form-control",
+        		"name": "old_sfcs_user_bai2",
+        		"value": "bai2_old_sfcs",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"subtype": "password",
+        		"required": true,
+        		"label": "Password",
+        		"className": "form-control",
+        		"name": "old_db_pass_bai2",
+        		"value": "Bai2@Max"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Port name",
+        		"className": "form-control",
+        		"name": "old_sfcs_port_bai2",
+        		"value": "3306",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Plant Code Old",
+        		"className": "form-control",
+        		"name": "plantcode_old_bai2",
+        		"value": "AIP",
+        		"subtype": "text"
+        	},
+        	{
+        		"type": "text",
+        		"required": true,
+        		"label": "Company Number Old",
+        		"className": "form-control",
+        		"name": "company_no_old_bai2",
         		"value": "200",
         		"subtype": "text"
         	}
