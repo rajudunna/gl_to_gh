@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.75.152.106",
+        "db_host": "10.20.154.66",
         "db_user": "baiall",
         "db_pass": "baiall",
-        "db_port": "3308"
+        "db_port": "3317"
     },
     "mssql_database_info": {
         "db_host": "localhost",
