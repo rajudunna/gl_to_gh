@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "Quantum Clothing India (P) Ltd",
+                "value": "BAI3",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "Q01",
+                "value": "A03",
                 "subtype": "text"
             },
 			{
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BLI",
+                "value": "BEL",
                 "subtype": "text"            
 			},
 			{                
@@ -77,7 +77,7 @@
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "Brandix apparel solution -Discounter",
+                "value": "Brandix Apparel India 3",
                 "subtype": "text"
             },
             {
@@ -86,7 +86,7 @@
                 "label": "Plant Address",
                 "className": "form-control",
                 "name": "plant_address",
-                "value": "QCI,Plot #12,BIAC SEZ,Pudimadaka Road,<br/>Atchutapuram Mandal,Visakhapatnam-531011,<br/>Andhra Pradesh",
+                "value": "BAI3,Plot #12,BIAC SEZ,Pudimadaka Road,<br/>Atchutapuram Mandal,Visakhapatnam-531011,<br/>Andhra Pradesh",
                 "subtype": "text"
             },
             {
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "BAL",
+                "value": "A03",
                 "subtype": "text"				
 			},
             {                
@@ -168,7 +168,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "Q51",
+                "value": "A03",
                 "subtype": "text"            
 			},
             {                
@@ -177,7 +177,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "Q01",
+                "value": "A03",
                 "subtype": "text"
 			},            
 			{                
@@ -266,19 +266,13 @@
             	"name": "grndetails",
             	"values": [
             		{
-            			"label": "BLI-BAL-Q51",
-            			"value": "BLI-BAL-Q51",
-            			"selected": true
-            		},
-        			{
-            			"label": "BLI-Q01-Q01",
-            			"value": "BLI-Q01-Q01",
+            			"label": "BEL-A03-A03",
+            			"value": "BEL-A03-A03",
             			"selected": true
             		}
             	],
             	"value": [
-            		"BLI-BAL-Q51",
-            		"BLI-Q01-Q01"	
+            		"BEL-A03-A03"        		
             	]
             },
             {
@@ -302,7 +296,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "QCI",
+                "value": "BAI3",
                 "subtype": "text"
             },
             {
@@ -710,7 +704,7 @@
                         "selected": true
                     }
                 ],
-                "value": "YES"
+                "value": "NO"
             },
             {
                 "type": "select",
