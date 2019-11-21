@@ -812,8 +812,8 @@
             	"name": "barcode_gen_emb",
             	"values": [
             		{
-            			"label": "yes",
-            			"value": "yes"
+            			"label": "no",
+            			"value": "no"
             			
             		},
             		{
@@ -822,7 +822,7 @@
             			"selected": true
             		}
             	],
-            	"value": "no"
+            	"value": "yes"
             },
             {
                 "type": "checkbox-group",
