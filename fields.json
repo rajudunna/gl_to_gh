@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BFFMR Plant",
+                "value": "Mirigama 1 - (BFFMR1)",
                 "subtype": "text"
             },
             {
@@ -59,7 +59,7 @@
 				"label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BFFMR",
+                "value": "BFFMR1",
                 "subtype": "text"            
 			},
 			{                
@@ -112,7 +112,7 @@
                 "className": "form-control",
                 "name": "tot_plant_working_hrs",
                 "subtype": "text",
-                "value": "15"
+                "value": "10"
             },
             {
                 "type": "select",
@@ -159,7 +159,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "N51",
+                "value": "BAL",
                 "subtype": "text"				
 			},
             {                
@@ -260,20 +260,26 @@
                 ]
             },
             {
-            	"type": "checkbox-group",
-            	"required": true,
-            	"label": "GRN-Details",
-            	"name": "grndetails",
-            	"values": [
-            		{
-            			"label": "BIA-BAL-N51",
-            			"value": "BIA-BAL-N51",
-            			"selected": true
-            		}
-            	],
-            	"value": [
-            		"BIA-BAL-N51"	
-            	]
+                "type": "checkbox-group",
+                "required": true,
+                "label": "GRN-Details",
+                "name": "grndetails",
+                "values": [
+                    {
+                        "label": "BIA-BAL-N51",
+                        "value": "BIA-BAL-N51",
+                        "selected": true
+                    },
+                    {
+                        "label": "BIA-N01-N01",
+                        "value": "BIA-N01-N01",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                    "BIA-BAL-N51",
+                    "BIA-N01-N01"
+                ]
             },
             {
                 "type": "checkbox-group",
@@ -313,7 +319,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "07:45:00"
+                "value": "08:00:00"
             },
             {
                 "type": "text",
@@ -321,7 +327,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "17:30:00"
+                "value": "17:45:00"
             }
         ],
         [
