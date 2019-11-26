@@ -798,6 +798,26 @@
             	"value": "yes"
             },
             {
+            	"type": "select",
+            	"required": true,
+            	"label": "Barcode Generation for Embellishement",
+            	"className": "form-control",
+            	"name": "barcode_gen_emb",
+            	"values": [
+            		{
+            			"label": "yes",
+            			"value": "yes"
+            			
+            		},
+            		{
+            			"label": "no",
+            			"value": "no",
+            			"selected": true
+            		}
+            	],
+            	"value": "no"
+            },
+            {
                 "type": "checkbox-group",
                 "required": true,
                 "label": "Category Display in Dashboard",
