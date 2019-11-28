@@ -17,7 +17,7 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.20.154.61",
+        "db_host": "10.20.154.97",
         "db_user": "brandix_sfcs",
         "db_pass": "Brandix@7",
         "db_port": "3306"
@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "Mirigama 1 - (BFFMR1)",
+                "value": "Minuwangoda - (BFFM)",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "N01",
+                "value": "N03",
                 "subtype": "text"
             },
             {
@@ -59,7 +59,7 @@
                 "label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "BFFMR1",
+                "value": "BFFM",
                 "subtype": "text"
             },
             {
@@ -77,7 +77,7 @@
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
-                "value": "Brandix Apparel Solutions Limited - Mirigama 01",
+                "value": "Brandix Apparel Solutions Limited - Minuwangoda",
                 "subtype": "text"
             },
             {
@@ -167,7 +167,7 @@
                 "label": "Plant WH Code",
                 "className": "form-control",
                 "name": "plant_wh_code",
-                "value": "N51",
+                "value": "N53",
                 "subtype": "text"
             },
             {
@@ -176,7 +176,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "N01",
+                "value": "N03",
                 "subtype": "text"
             },
             {
@@ -265,19 +265,13 @@
                 "name": "grndetails",
                 "values": [
                     {
-                        "label": "BIA-BAL-N51",
-                        "value": "BIA-BAL-N51",
-                        "selected": true
-                    },
-                    {
-                        "label": "BIA-N01-N01",
-                        "value": "BIA-N01-N01",
+                        "label": "BIA-BAL-N53",
+                        "value": "BIA-BAL-N53",
                         "selected": true
                     }
                 ],
                 "value": [
-                    "BIA-BAL-N51",
-                    "BIA-N01-N01"
+                    "BIA-BAL-N53"
                 ]
             },
             {
@@ -301,7 +295,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BFFMR1",
+                "value": "BFFM",
                 "subtype": "text"
             },
             {
@@ -705,7 +699,7 @@
                         "selected": true
                     }
                 ],
-                "value": "YES"
+                "value": "NO"
             },
             {
                 "type": "select",
