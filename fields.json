@@ -17,7 +17,7 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.175.152.77",
+        "db_host": "10.175.152.79",
         "db_user": "brandix_sfcs",
         "db_pass": "Brandix@7",
         "db_port": "3306"
