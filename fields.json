@@ -821,7 +821,7 @@
             			"selected": true
             		}
             	],
-            	"value": "no"
+            	"value": "yes"
             },
             {
                 "type": "checkbox-group",
