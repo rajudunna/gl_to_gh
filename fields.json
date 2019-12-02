@@ -1129,7 +1129,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "hrms-server-name",
-                "value": "10.175.16.106",
+                "value": "10.227.100.25",
                 "subtype": "text"
             },
             {
