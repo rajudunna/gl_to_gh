@@ -380,7 +380,7 @@
                 "label": "SAH Countdown email",
                 "className": "form-control",
                 "name": "sah_countdown_email",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -389,7 +389,7 @@
                 "label": "Week Del Plan Status Mail",
                 "className": "form-control",
                 "name": "week_del_plan_status_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -398,7 +398,7 @@
                 "label": "RM Summary Report Email",
                 "className": "form-control",
                 "name": "rm_summary_report_email",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -425,7 +425,8 @@
                 "label": "PRO AOD GATEPASS UPDATE TO BELBAL CO INVOICE mail",
                 "className": "form-control",
                 "name": "pro_aod_gatepass_update_to_belbal_co_invoice_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,
+				IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -452,7 +453,7 @@
                 "label": "SAH dashboard email",
                 "className": "form-control",
                 "name": "sah_dashboard_email",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com,UdayasiriC@brandix.com,NilanthaBa@brandix.com,VipulaB@brandix.com,SumeeraS@brandix.com,NilanthaB@brandix.com,AmalKas@brandix.com,PallewalaChanakaPr@brandix.com,LasithaK@brandix.com,YoshanW@brandix.com,NalirM@brandix.com,KasunD@brandix.com,kasunn@brandix.com,DeepaniAt@brandix.com,DilushiniF@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,UdayasiriC@brandix.com,NilanthaBa@brandix.com,VipulaB@brandix.com,SumeeraS@brandix.com,NilanthaB@brandix.com,AmalKas@brandix.com,PallewalaChanakaPr@brandix.com,LasithaK@brandix.com,YoshanW@brandix.com,NalirM@brandix.com,KasunD@brandix.com,kasunn@brandix.com,DeepaniAt@brandix.com,DilushiniF@brandix.com"
             },
             {
                 "type": "text",
@@ -460,7 +461,7 @@
                 "label": "Order Summary Mail",
                 "className": "form-control",
                 "name": "order_summary_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -468,7 +469,7 @@
                 "label": "Plan Vs Output Mail",
                 "className": "form-control",
                 "name": "plan_vs_output_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -476,7 +477,7 @@
                 "label": "IPS Dashboard Summary mail",
                 "className": "form-control",
                 "name": "ips_dashboard_summary_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -484,7 +485,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -492,7 +493,7 @@
                 "label": "PRO SI WED OUTPUT Details mail",
                 "className": "form-control",
                 "name": "pro_si_wed_output_details_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -500,7 +501,7 @@
                 "label": "M3 vs SFCS Operation Reporting",
                 "className": "form-control",
                 "name": "m3_vs_sfcs_operation_reporting",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com,mahimas@brandix.com,MifrazM@brandix.com"
             },
             {
                 "type": "text",
@@ -508,7 +509,7 @@
                 "label": "Short Shipment Mail",
                 "className": "form-control",
                 "name": "short_shipment_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -516,7 +517,7 @@
                 "label": "Mail17",
                 "className": "form-control",
                 "name": "mail17",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "value": "ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
             },
             {
                 "type": "text",
@@ -524,7 +525,7 @@
                 "label": "Mail18",
                 "className": "form-control",
                 "name": "mail18",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "value": "ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
             },
             {
                 "type": "text",
@@ -532,7 +533,7 @@
                 "label": "Mail19",
                 "className": "form-control",
                 "name": "mail19",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "value": "ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
             },
             {
                 "type": "text",
@@ -540,7 +541,7 @@
                 "label": "Mail20",
                 "className": "form-control",
                 "name": "mail20",
-                "value": "MalithaD@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
+                "value": "ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,KasinaC@brandix.com,MohanR@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,rameshk@schemaxtech.com"
             }
         ],
         [
@@ -1424,7 +1425,7 @@
                 "label": "Lay Plan Delete",
                 "className": "form-control",
                 "name": "layplanmail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1433,7 +1434,7 @@
                 "label": "MRN Request Form",
                 "className": "form-control",
                 "name": "mrn_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1442,7 +1443,7 @@
                 "label": "MRN Request Form2",
                 "className": "form-control",
                 "name": "mrn_request_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1451,7 +1452,7 @@
                 "label": "Cutting Alert",
                 "className": "form-control",
                 "name": "cutting_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1460,7 +1461,7 @@
                 "label": "Dispatch Mail",
                 "className": "form-control",
                 "name": "dispatch_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,bai2security@brandix.com,MalithaD@brandix.com,BAI2FinishingTeam@brandix.com,NadeeraD@brandix.com,ErangaR@brandix.com,Gayanli@brandix.com,bailogisticsteam@brandix.com,AmilaSil@brandix.com,ThevindaP@brandix.com,WasanthaB@brandix.com,ChandimaAl@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,bai2security@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com,BAI2FinishingTeam@brandix.com,NadeeraD@brandix.com,ErangaR@brandix.com,Gayanli@brandix.com,bailogisticsteam@brandix.com,AmilaSil@brandix.com,ThevindaP@brandix.com,WasanthaB@brandix.com,ChandimaAl@brandix.com"
             },
             {
                 "type": "text",
@@ -1469,7 +1470,7 @@
                 "label": "Weekly Delivery Plan Update",
                 "className": "form-control",
                 "name": "weekly_plan_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1478,7 +1479,7 @@
                 "label": "Order Quantity Revision",
                 "className": "form-control",
                 "name": "order_quantity_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1487,7 +1488,7 @@
                 "label": "Weekly Delivery Plan Status Update",
                 "className": "form-control",
                 "name": "weekly_plan_status_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1496,7 +1497,7 @@
                 "label": "Supplier Claim Update",
                 "className": "form-control",
                 "name": "supplier_claim_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1505,7 +1506,7 @@
                 "label": "Supplier Claim PDF Mail",
                 "className": "form-control",
                 "name": "supplier_claim_pdf_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1514,7 +1515,7 @@
                 "label": "PLD-Manpower",
                 "className": "form-control",
                 "name": "pld_man_mail",
-                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,MalithaD@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1523,7 +1524,7 @@
                 "label": "Dashboard Email",
                 "className": "form-control",
                 "name": "dashboard_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             },
             {
                 "type": "text",
@@ -1532,7 +1533,7 @@
                 "label": "Update Status",
                 "className": "form-control",
                 "name": "update_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "value": "DivyamohanM@brandix.com,KasinaC@brandix.com,VenkateshCh@brandix.com,MohanR@brandix.com,rameshk@schemaxtech.com,MohanT@brandix.com,SteeveS@brandix.com,WijesingheC@brandix.com,ChamindaAr@brandix.com,ErangaR@brandix.com,kaushalyaj@brandix.com,udayaku@brandix.com,IndikaDey@brandix.com"
             }
         ]
     ]
