@@ -268,10 +268,17 @@
                         "label": "BLI-BAL-L51",
                         "value": "BLI-BAL-L51",
                         "selected": true
+                    },
+                    {
+                        "label": "BLI-L01-L01",
+                        "value": "BLI-L01-L01",
+                        "selected": true
                     }
+
                 ],
                 "value": [
-                    "BLI-BAL-L51"
+                    "BLI-BAL-L51",
+                    "BLI-L01-L01"
                 ]
             },
             {
