@@ -278,6 +278,99 @@
             {
                 "type": "checkbox-group",
                 "required": true,
+                "label": "Fabric-Status",
+                "name": "fabricstatus",
+                "values": [
+                    {
+                        "label": "10",
+                        "value": "10",
+                        "selected": true
+                    },
+                    {
+                        "label": "11",
+                        "value": "11",
+                        "selected": true
+                    },
+                    {
+                        "label": "13",
+                        "value": "13",
+                        "selected": true
+                    },
+                    {
+                        "label": "14",
+                        "value": "14",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                   "10","11","13","14"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "Sewing-Status",
+                "name": "strimstatus",
+                "values": [
+                    {
+                        "label": "10",
+                        "value": "10",
+                        "selected": true
+                    },
+                    {
+                        "label": "11",
+                        "value": "11",
+                        "selected": true
+                    },
+                    {
+                        "label": "13",
+                        "value": "13",
+                        "selected": true
+                    },
+                    {
+                        "label": "14",
+                        "value": "14",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                   "10","11","13","14"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
+                "label": "Packing-Status",
+                "name": "ptrimstatus",
+                "values": [
+                    {
+                        "label": "10",
+                        "value": "10",
+                        "selected": true
+                    },
+                    {
+                        "label": "11",
+                        "value": "11",
+                        "selected": true
+                    },
+                    {
+                        "label": "13",
+                        "value": "13",
+                        "selected": true
+                    },
+                    {
+                        "label": "14",
+                        "value": "14",
+                        "selected": true
+                    }
+                ],
+                "value": [
+                   "10","11","13","14"
+                ]
+            },
+            {
+                "type": "checkbox-group",
+                "required": true,
                 "label": "Stock-Report-Product-Group",
                 "name": "stock_report_product_group",
                 "values": [
