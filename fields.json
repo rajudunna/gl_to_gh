@@ -337,7 +337,7 @@
                 "label": "SMTP User Name",
                 "className": "form-control",
                 "name": "smtp-user-name",
-                "value": "bek_sfcs",
+                "value": "bel_sfcs",
                 "subtype": "text"
             },
             {
@@ -364,7 +364,7 @@
                "label": "SMTP From Mail",
                "className": "form-control",
                "name": "smtp_mail_from",
-               "value": "ben_sfcs@brandix.com",
+               "value": "bel_sfcs@brandix.com",
                "subtype": "text"
             },
             {
