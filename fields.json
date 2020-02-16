@@ -337,7 +337,7 @@
                 "label": "SMTP User Name",
                 "className": "form-control",
                 "name": "smtp-user-name",
-                "value": "bek_sfcs",
+                "value": "bel_sfcs",
                 "subtype": "text"
             },
             {
@@ -355,7 +355,7 @@
                 "label": "SMTP Port",
                 "className": "form-control",
                 "name": "smtp-port",
-                "value": "587",
+                "value": "25",
                 "subtype": "text"
             },
             {
@@ -364,7 +364,7 @@
                "label": "SMTP From Mail",
                "className": "form-control",
                "name": "smtp_mail_from",
-               "value": "bek_sfcs@brandix.com",
+               "value": "bel_sfcs@brandix.com",
                "subtype": "text"
             },
             {
@@ -478,7 +478,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,ChathurangaD@brandix.com,DinushaPre@brandix.com"
+                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,ChathurangaD@brandix.com,DinushaPre@brandix.com,indikades@brandix.com,anuditham@brandix.com,janakaka@brandix.com,kasunwi@brandix.com,buddikah@brandix.com,madushans@brandix.com,kamale@brandix.com,surangap@brandix.com,ruwank@brandix.com,mohanr@brandix.com,sameeras@brandix.com"
             },
             {
                 "type": "text",
