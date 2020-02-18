@@ -391,7 +391,7 @@
                 "label": "Week Del Plan Status Mail",
                 "className": "form-control",
                 "name": "week_del_plan_status_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -400,7 +400,7 @@
                 "label": "RM Summary Report Email",
                 "className": "form-control",
                 "name": "rm_summary_report_email",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -409,7 +409,7 @@
                 "label": "MRN week summary alert mail",
                 "className": "form-control",
                 "name": "mrn_week_summary_alert_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -427,7 +427,7 @@
                 "label": "PRO AOD GATEPASS UPDATE TO BELBAL CO INVOICE mail",
                 "className": "form-control",
                 "name": "pro_aod_gatepass_update_to_belbal_co_invoice_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -436,7 +436,7 @@
                 "label": "carton pendings mail",
                 "className": "form-control",
                 "name": "carton_pendings_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -445,7 +445,7 @@
                 "label": "Dailly Delivery Failures Mail",
                 "className": "form-control",
                 "name": "dailly_delivery_failures_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -454,7 +454,7 @@
                 "label": "SAH dashboard email",
                 "className": "form-control",
                 "name": "sah_dashboard_email",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -462,7 +462,7 @@
                 "label": "Order Summary Mail",
                 "className": "form-control",
                 "name": "order_summary_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -470,7 +470,7 @@
                 "label": "Plan Vs Output Mail",
                 "className": "form-control",
                 "name": "plan_vs_output_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -478,7 +478,7 @@
                 "label": "IPS Dashboard Summary mail",
                 "className": "form-control",
                 "name": "ips_dashboard_summary_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -486,7 +486,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
@@ -494,7 +494,7 @@
                 "label": "PRO SI WED OUTPUT Details mail",
                 "className": "form-control",
                 "name": "pro_si_wed_output_details_mail",
-                "value": "BAI3LeadTeam@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
             },
             {
                 "type": "text",
