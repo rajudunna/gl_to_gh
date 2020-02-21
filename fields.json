@@ -328,7 +328,7 @@
                 "label": "SMTP Server Name",
                 "className": "form-control",
                 "name": "smtp-server-name",
-                "value": "smtp.office365.com",
+                "value": "10.227.19.18",
                 "subtype": "text"
             },
             {
