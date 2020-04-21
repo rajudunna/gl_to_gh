@@ -1078,7 +1078,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "prod-status-server-name",
-                "value": "BERDBTEST01",
+                "value": "BCI-CTSQL-01\\BELCTSQL",
                 "subtype": "text"
             },
             {
@@ -1087,7 +1087,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "prod-status-user-name",
-                "value": "SAH_Test_User",
+                "value": "SFCS_User",
                 "subtype": "text"
             },
             {
@@ -1097,7 +1097,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "prod-status-password",
-                "value": "Test@123"
+                "value": "yhnmko@987"
             },
             {
                 "type": "text",
