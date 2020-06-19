@@ -1029,7 +1029,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "promis-server-name",
-                "value": "10.227.60.8",
+                "value": "10.150.152.17",
                 "subtype": "text"
             },
             {
@@ -1038,7 +1038,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "promis-user-name",
-                "value": "SFCS_PRD_USER",
+                "value": "SFCS_User",
                 "subtype": "text"
             },
             {
@@ -1048,7 +1048,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "promis-password",
-                "value": "promis@4321#"
+                "value": "welcome@123"
             },
             {
                 "type": "text",
