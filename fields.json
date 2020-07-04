@@ -268,11 +268,16 @@
                         "label": "BIA-BAL-N73",
                         "value": "BIA-BAL-N73",
                         "selected": true
+                    },
+                    {
+                        "label": "BIA-BAL-N23",
+                        "value": "BIA-BAL-N23",
+                        "selected": true
                     }
                 ],
                 "value": [
-                    "BIA-BAL-N73"
-                  
+                    "BIA-BAL-N73",
+                    "BIA-BAL-N23"
                 ]
             },
             {
