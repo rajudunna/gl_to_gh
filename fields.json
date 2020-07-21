@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BFFAV1 Plant",
+                "value": "BFFAV2 Plant",
                 "subtype": "text"
             },
             {
@@ -847,7 +847,8 @@
                 ]
             }
         ],
-        [{
+        [
+            {
                 "type": "header",
                 "subtype": "h1",
                 "label": "API Configurations"
@@ -867,7 +868,7 @@
                 "label": "User Name",
                 "className": "form-control",
                 "name": "api-user-name",
-                "value": "brandixlk\\BEL_SFCS",
+                "value": "BEL_SFCS@brandix.com",
                 "subtype": "text"
             },
             {
@@ -905,13 +906,13 @@
                 "name": "mo_soap_api",
                 "value": "/mws-ws/services/SFCS?wsdl",
                 "subtype": "text"
-            },       
+            },
             {
                 "type": "number",
                 "required": true,
                 "label": "API CALL TIME OUT",
                 "className": "form-control",
-                "info" : "Pass seconds as value",
+                "info": "Pass seconds as value",
                 "name": "api_call_time_out",
                 "value": 900
             },
@@ -921,16 +922,16 @@
                 "label": "Rm Dashboard API",
                 "className": "form-control",
                 "name": "rm_dashboard_api",
-                "value": "http://gd-app-01/rmd/",
+                "value": "http://gd-app-01/rmdbia/",
                 "subtype": "text"
-            },          
+            },
             {
                 "type": "text",
                 "required": true,
                 "label": "M3 System Id",
                 "className": "form-control",
                 "name": "m3_system_id",
-                "value": "10.20.140.10",
+                "value": "10.10.130.106",
                 "subtype": "text"
             },
             {
@@ -993,7 +994,7 @@
                 "label": "SFCS to FFSP Password",
                 "className": "form-control",
                 "name": "sf_sp_pwd",
-                "value": "",
+                "value": "2ESwasw",
                 "subtype": "text"
             }
         ], 
