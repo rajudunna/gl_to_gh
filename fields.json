@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "10.20.154.71",
-        "db_user": "brandix_sfcs",
-        "db_pass": "Brandix@7",
-        "db_port": "3306"
+        "db_host": "",
+        "db_user": "",
+        "db_pass": "",
+        "db_port": ""
     },
     "mssql_database_info": {
         "db_host": "localhost",
@@ -268,10 +268,16 @@
                         "label": "BIA-BAL-N77",
                         "value": "BIA-BAL-N77",
                         "selected": true
+                    },
+					{
+                        "label": "BIA-BAL-N27",
+                        "value": "BIA-BAL-N27",
+                        "selected": true
                     }
                 ],
                 "value": [
-                    "BIA-BAL-N77"
+                    "BIA-BAL-N77",
+					"BIA-BAL-N27"
                 ]
             },
             {
