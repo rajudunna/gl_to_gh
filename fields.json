@@ -17,10 +17,10 @@
         ]
     },
     "mysql_database_info": {
-        "db_host": "",
-        "db_user": "",
-        "db_pass": "",
-        "db_port": ""
+        "db_host": "10.20.154.71",
+        "db_user": "brandix_sfcs",
+        "db_pass": "Brandix@7",
+        "db_port": "3306"
     },
     "mssql_database_info": {
         "db_host": "localhost",
