@@ -312,7 +312,7 @@
                 "className": "form-control",
                 "name": "plant-start-time",
                 "subtype": "text",
-                "value": "08:00:00"
+                "value": "06:00:00"
             },
             {
                 "type": "text",
@@ -320,7 +320,7 @@
                 "className": "form-control",
                 "name": "plant-end-time",
                 "subtype": "text",
-                "value": "17:45:00"
+                "value": "18:00:00"
             }
         ],
         [
