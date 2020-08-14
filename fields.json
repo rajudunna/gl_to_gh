@@ -234,7 +234,7 @@
                     }
                 ],
                 "value": [
-                   "A","B"
+                   "general"
                 ]
             },
             {
@@ -752,7 +752,7 @@
                         "selected": true
                     }
                 ],
-                "value": "no"
+                "value": "yes"
             },
             {
                 "type": "select",
