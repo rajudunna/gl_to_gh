@@ -337,6 +337,84 @@
             {
                 "type": "header",
                 "subtype": "h1",
+                "label": "HCM Information"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "Attendance Application",
+                "className": "form-control",
+                "name": "attendance_app",
+                "value": "HCM",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "HCM Plant Code",
+                "className": "form-control",
+                "name": "hcm_plant_code",
+                "value": "689",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "HCM Server Name",
+                "className": "form-control",
+                "name": "hcm-server-name",
+                "value": "bll-hcmdb-02",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "HCM User Name",
+                "className": "form-control",
+                "name": "hcm-user-name",
+                "value": "SFCSuser",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "subtype": "password",
+                "required": true,
+                "label": "HCM Password",
+                "className": "form-control",
+                "name": "hcm-password",
+                "value": "SFCS#bel713"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "HCM Database",
+                "className": "form-control",
+                "name": "hcm_database",
+                "value": "hrmv7_prod_bel",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "label": "HCM Driver Name",
+                "className": "form-control",
+                "name": "hcm_driver_name",
+                "value": "Driver={SQL Server Native Client 11.0}",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "ODBC Name (MYSQL)",
+                "className": "form-control",
+                "name": "hcm_mysql-odbc",
+                "value": "test-mysql",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
+                "type": "header",
+                "subtype": "h1",
                 "label": "Mails for Alerts"
             },
             {
