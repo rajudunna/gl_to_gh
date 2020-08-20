@@ -360,7 +360,7 @@
 				"label": "HCM Plant Code",
 				"className": "form-control",
 				"name": "hcm_plant_code",
-				"value": "66",
+				"value": "000066",
 				"subtype": "text"
 			},
 			{
