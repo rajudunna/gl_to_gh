@@ -354,7 +354,7 @@
                 "label": "HCM Plant Code",
                 "className": "form-control",
                 "name": "hcm_plant_code",
-                "value": "2681",
+                "value": "002681",
                 "subtype": "text"
             },
             {
