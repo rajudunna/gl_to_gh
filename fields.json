@@ -197,6 +197,15 @@
                 "value": "10"
             },
             {
+                "type": "text",
+                "required": true,
+                "label": "Break Hours",
+                "className": "form-control",
+                "name": "breakhours",
+                "value": "30",
+                "subtype": "text"
+            },
+            {
                 "type": "checkbox-group",
                 "required": true,
                 "label": "Shifts",
