@@ -374,7 +374,7 @@
                 "label": "HCM Password",
                 "className": "form-control",
                 "name": "hcm-password",
-                "value": "SFCS#bel714"
+                "value": "SFCS#bel713"
             },
             {
                 "type": "text",
