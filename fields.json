@@ -403,7 +403,7 @@
 				"label": "HCM Driver Name",
 				"className": "form-control",
 				"name": "hcm_driver_name",
-				"value": "Driver={SQL Server Native Client 11.0}",
+				"value": "Driver={SQL Server}",
 				"subtype": "text"
 			},
 			{
