@@ -506,6 +506,44 @@
         ],
         [
             {
+                "type": "text",
+                "required": true,
+                "label": "Bearer Token",
+                "className": "form-control",
+                "name": "fg-api-bearer-token",
+                "value": "Token_Id",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG Host Name",
+                "className": "form-control",
+                "name": "fg-api-host-name",
+                "value": "http://10.10.100.27",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG Port",
+                "className": "form-control",
+                "name": "fg-api-port",
+                "value": "3006",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG WH Code",
+                "className": "form-control",
+                "name": "fg-wh-code",
+                "value": "104",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
                 "type": "header",
                 "subtype": "h1",
                 "label": "Mails for Alerts"
