@@ -424,7 +424,7 @@
                 "label": "Bearer Token",
                 "className": "form-control",
                 "name": "fg-api-bearer-token",
-                "value": "Token_Id",
+                "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJCMFgwZjBxcEF nWmhQWmpHejZIcURRd2cycDRjR241ZG9ILWlXWXFtbjJVIn0.eyJleHAiOjE2MD Y2MzMwNjYsImlhdCI6MTU5ODg1NzA2NiwianRpIjoiM2Q4OTZiNWEtZjQwNy00Z WI0LTg1MzYtOGU3NmE0YTM2NzRhIiwiaXNzIjoiaHR0cDovLzEwLjEwLjEwMC4y ODo4MDgwL2F1dGgvcmVhbG1zL3pvbmUiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjo iNzU3MGEwNzMtY2IyYS00MTU1LTk4MzMtNzMyNmI0NGFkMjI1IiwidHlwIjoiQm VhcmVyIiwiYXpwIjoic2ZjcyIsInNlc3Npb25fc3RhdGUiOiIxZGNkNGJkZC05Z TQxLTRiYmUtOGJmMi02MjUxYTFkNjMwNTIiLCJhY3IiOiIxIiwicmVhbG1fYWNj ZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXR pb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm 1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb 2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJjbGllbnRJZCI6InNm Y3MiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMC4wLjA uMiIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1zZmNzIi wiY2xpZW50QWRkcmVzcyI6IjEwLjAuMC4yIn0.n75WTDfluThnd335C8GFAH2hZ YmDz6TV9mwTKbSkML55dZwjJEQpoKr4z7T7MSiU0UxllSAsD-VYg5l2WuKxgDWN lqbu5Uzc8T1skL0XYGkwnkYkyh0XHUEoKjXZnH4ZLZGYili4ZlGeuhSyYHgGO-P XtDiTrHjvlD5pigtQQ-Q8opRB02xyHkI85iwJDBeg_WXt1nKHnTlpHWs6QB1xuI D6aH59oELnZAQ-NSd8lDUfHkxSgwZtvbBoT3IN1_55FfUAh7PoR59sbpONCp9wI LxeEiXi_ZdRowZyupuN3z7kUZWJuejDIeynra1J5_AY84IsbCr0j0tK1OJtU-1EA",
                 "subtype": "text"
             },
             {
