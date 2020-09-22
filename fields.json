@@ -445,7 +445,7 @@
                 "label": "FG WH Code",
                 "className": "form-control",
                 "name": "fg-wh-code",
-                "value": "104",
+                "value": "BEK",
                 "subtype": "text"
             }
         ],
