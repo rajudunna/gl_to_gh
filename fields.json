@@ -573,7 +573,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com,BAI3FinishingTeam@brandix.com,BAI3CuttingTeam@brandix.com,BAI3PlanningTeam@brandix.com,BAI3ProductionTeam@brandix.com,BAI3QualityTeam@brandix.com,BAI3LeadTeam@brandix.com,HerambaJ@brandix.com,arjunaj@brandix.com"
             },
             {
                 "type": "text",
