@@ -752,7 +752,7 @@
                         "selected": true
                     }
                 ],
-                "value": "yes"
+                "value": "no"
             },
             {
                 "type": "select",
