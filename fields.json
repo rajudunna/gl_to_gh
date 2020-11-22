@@ -305,7 +305,7 @@
                 "label": "Plant Alert Code",
                 "className": "form-control",
                 "name": "plant-alert-code",
-                "value": "BFFW",
+                "value": "BEEK",
                 "subtype": "text"
             },
             {
