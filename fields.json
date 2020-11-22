@@ -41,7 +41,7 @@
                 "label": "Plant Name",
                 "className": "form-control",
                 "name": "plantname",
-                "value": "BEEK",
+                "value": "CWH",
                 "subtype": "text"
             },
             {
@@ -50,7 +50,7 @@
                 "label": "Plant Code",
                 "className": "form-control",
                 "name": "plantcode",
-                "value": "104",
+                "value": "BEEK",
                 "subtype": "text"
             },
             {
@@ -59,7 +59,7 @@
                 "label": "Cluster Code",
                 "className": "form-control",
                 "name": "cluster_code",
-                "value": "140",
+                "value": "BEL",
                 "subtype": "text"
             },
             {
@@ -158,7 +158,7 @@
                 "label": "Central WH Code",
                 "className": "form-control",
                 "name": "central_wh_code",
-                "value": "104",
+                "value": "BAL",
                 "subtype": "text"
             },
             {
@@ -176,7 +176,7 @@
                 "label": "Plant Prod Code",
                 "className": "form-control",
                 "name": "plant_prod_code",
-                "value": "104",
+                "value": "BEEK",
                 "subtype": "text"
             },
             {
@@ -274,20 +274,14 @@
                 "name": "grndetails",
                 "values": [
                     {
-                        "label": "BIA-BAL-N52",
-                        "value": "BIA-BAL-N52",
-                        "selected": true
-                    },
-                    {
-                        "label": "BIA-N02-N02",
-                        "value": "BIA-N02-N02",
+                        "label": "BEL-BAL-104",
+                        "value": "BEL-BAL-104",
                         "selected": true
                     }
 
                 ],
                 "value": [
-                    "BIA-BAL-N52",
-                    "BIA-N02-N02"
+                    "BEL-BAL-104"
                 ]
             },
             {
