@@ -279,14 +279,14 @@
                         "selected": true
                     },
 					{
-                        "label": "BIA-BAL-N27",
-                        "value": "BIA-BAL-N27",
+                        "label": "BIA-N27-N27",
+                        "value": "BIA-N27-N27",
                         "selected": true
                     }
                 ],
                 "value": [
                     "BIA-BAL-N77",
-                    "BIA-BAL-N27"
+                    "BIA-N27-N27"
                 ]
             },
             {
