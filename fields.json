@@ -447,7 +447,7 @@
                 "label": "SMTP Password",
                 "className": "form-control",
                 "name": "smtp-password",
-                "value": "brandix@321",
+                "value": "Brand@smtp2020#",
                 "subtype": "text"
             },
             {
@@ -965,7 +965,7 @@
                 "label": "Password",
                 "className": "form-control",
                 "name": "api-password",
-                "value": "brandix@321"
+                "value": "Brand@smtp2020#"
             },
             {
                 "type": "text",
