@@ -1116,7 +1116,7 @@
                 "label": "Server Name",
                 "className": "form-control",
                 "name": "promis-server-name",
-                "value": "10.150.152.17",
+                "value": "10.227.241.27",
                 "subtype": "text"
             },
             {
