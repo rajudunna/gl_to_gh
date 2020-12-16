@@ -415,7 +415,7 @@
                 "label": "SMTP Server Name",
                 "className": "form-control",
                 "name": "smtp-server-name",
-                "value": "10.227.19.18",
+                "value": "smtp.office365.com",
                 "subtype": "text"
             },
             {
@@ -424,7 +424,7 @@
                 "label": "SMTP User Name",
                 "className": "form-control",
                 "name": "smtp-user-name",
-                "value": "bel_sfcs",
+                "value": "belsfcs",
                 "subtype": "text"
             },
             {
@@ -433,7 +433,7 @@
                 "label": "SMTP Password",
                 "className": "form-control",
                 "name": "smtp-password",
-                "value": "Brand@smtp2020#",
+                "value": "@Zlpg##@1992",
                 "subtype": "text"
             },
             {
@@ -442,7 +442,7 @@
                 "label": "SMTP Port",
                 "className": "form-control",
                 "name": "smtp-port",
-                "value": "25",
+                "value": "587",
                 "subtype": "text"
             },
             {
@@ -451,7 +451,7 @@
                "label": "SMTP From Mail",
                "className": "form-control",
                "name": "smtp_mail_from",
-               "value": "bel_sfcs@brandix.com",
+               "value": "belsfcs@brandix.com",
                "subtype": "text"
             },
             {
@@ -565,7 +565,7 @@
                 "label": "PRODUCTION WIP Status mail",
                 "className": "form-control",
                 "name": "production_wip_status_mail",
-                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com,mohanr@brandix.com,sameeras@brandix.com,anuras@brandix.com,diland@brandix.com,indikaam@brandix.com,jayanathp@brandix.com,kaveeshapi@brandix.com,rajeewar@brandix.com,ranganak@brandix.com,thilinana@brandix.com,harshanak@brandix.com"
+                "value": "ThusharaKo@brandix.com,LasithaM@brandix.com,DeshapriyaA@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com,mohanr@brandix.com,sameeras@brandix.com,anuras@brandix.com,diland@brandix.com,indikaam@brandix.com,jayanathp@brandix.com,kaveeshapi@brandix.com,rajeewar@brandix.com,ranganak@brandix.com,thilinana@brandix.com,harshanak@brandix.com,DinushaPre@brandix.com"
             },
             {
                 "type": "text",
