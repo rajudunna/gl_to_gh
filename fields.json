@@ -195,7 +195,7 @@
                 "label": "Break Hours",
                 "className": "form-control",
                 "name": "breakhours",
-                "value": "30",
+                "value": "60",
                 "subtype": "text"
             },
             {
