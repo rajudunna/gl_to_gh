@@ -405,6 +405,44 @@
         ],
         [
             {
+                "type": "text",
+                "required": true,
+                "label": "Bearer Token",
+                "className": "form-control",
+                "name": "fg-api-bearer-token",
+                "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJCMFgwZjBxcEFnWmhQWmpHejZIcURRd2cycDRjR241ZG9ILWlXWXFtbjJVIn0.eyJleHAiOjE2MTQ4MzQ5MzcsImlhdCI6MTYwNzA1ODkzNywianRpIjoiM2I0MzRkMmItZDU1Zi00YmJmLWExZjAtMjNlYTI2MzJkMjgxIiwiaXNzIjoiaHR0cDovLzEwLjEwLjEwMC4yODo4MDgwL2F1dGgvcmVhbG1zL3pvbmUiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiNzU3MGEwNzMtY2IyYS00MTU1LTk4MzMtNzMyNmI0NGFkMjI1IiwidHlwIjoiQmVhcmVyIiwiYXpwIjoic2ZjcyIsInNlc3Npb25fc3RhdGUiOiJiM2IzNmIxNS1lMTA3LTQ3NTktYjFhNC1hZDhmNmZkYjcxM2IiLCJhY3IiOiIxIiwicmVhbG1fYWNjZXNzIjp7InJvbGVzIjpbIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InByb2ZpbGUgZW1haWwiLCJjbGllbnRJZCI6InNmY3MiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImNsaWVudEhvc3QiOiIxMC4wLjAuMiIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1zZmNzIiwiY2xpZW50QWRkcmVzcyI6IjEwLjAuMC4yIn0.TZo-bqe05Ig_sfxjSBMEHO-8lwCtrg--c3tt157MALL0p5pykvAsOIDw1s0e5JBG7hdX1XMQmOLTS54F59yVAAfvSbOSWJJM0qnv_4nmPVYAx-CKoj5_rUXizsKAgt8WrP7RZv87vSkxleCwKU9fBoCLL5VvKFw-mLQUSkwhPVATKKXGhTv_JaksPled8tStlBbDbNFV80rJc4Nl0lpjIg6xDK07eNp5_vVAutfudu1fd5T_7R2f3-4h19V8DLAoX1Jcv322PpKYirPpvpeY9OxxiaFEFzXDZkDWpvPb7drR5iA2_WaJAVriJLltpXfXMxPjaW3pUWRcOiVTIPCAZQ",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG Host Name",
+                "className": "form-control",
+                "name": "fg-api-host-name",
+                "value": "http://10.10.100.27",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG Port",
+                "className": "form-control",
+                "name": "fg-api-port",
+                "value": "3006",
+                "subtype": "text"
+            },
+            {
+                "type": "text",
+                "required": true,
+                "label": "FG WH Code",
+                "className": "form-control",
+                "name": "fg-wh-code",
+                "value": "EKG",
+                "subtype": "text"
+            }
+        ],
+        [
+            {
                 "type": "header",
                 "subtype": "h1",
                 "label": "Mails for Alerts"
