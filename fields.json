@@ -447,6 +447,27 @@
                 "name": "fg-wh-code",
                 "value": "BER",
                 "subtype": "text"
+            },
+            {
+            	"type": "select",
+            	"required": true,
+            	"label": "Fg Warehouse integration",
+            	"className": "form-control",
+            	"name": "fg-wh-flag",
+            	"values": 
+            	[
+            		{
+            			"label": "yes",
+            			"value": "yes"
+            		   
+            		},
+            		{
+            			"label": "no",
+            			"value": "no",
+            			"selected": true
+            		}
+	            ],
+	            "value": "no"
             }
         ],
         [
@@ -640,10 +661,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail17",
+                "label": "supplier claim log",
                 "className": "form-control",
-                "name": "mail17",
-                "value": "BERA-EXECUTIVE_&_ABOVE@brandix.com,ChathurangaD@brandix.com,DinushaPre@brandix.com"
+                "name": "supplier_claim_log_mail",
+                "value": ""
             },
             {
                 "type": "text",
