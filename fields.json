@@ -447,6 +447,27 @@
                 "name": "fg-wh-code",
                 "value": "104",
                 "subtype": "text"
+            },
+            {
+            	"type": "select",
+            	"required": true,
+            	"label": "Fg Warehouse integration",
+            	"className": "form-control",
+            	"name": "fg-wh-flag",
+            	"values": 
+            	[
+            		{
+            			"label": "yes",
+            			"value": "yes"
+            		   
+            		},
+            		{
+            			"label": "no",
+            			"value": "no",
+            			"selected": true
+            		}
+	            ],
+	            "value": "no"
             }
         ],
         [
@@ -640,10 +661,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail17",
+                "label": "supplier claim log",
                 "className": "form-control",
-                "name": "mail17",
-                "value": "KrishanthaGu@brandix.com,SachithV@brandix.com,YasankaP@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,mahimas@brandix.com,MifrazM@brandix.com"
+                "name": "supplier_claim_log_mail",
+                "value": ""
             },
             {
                 "type": "text",
