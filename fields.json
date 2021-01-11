@@ -463,6 +463,27 @@
                 "name": "fg-wh-code",
                 "value": "ABC",
                 "subtype": "text"
+            },
+            {
+            	"type": "select",
+            	"required": true,
+            	"label": "Fg Warehouse integration",
+            	"className": "form-control",
+            	"name": "fg-wh-flag",
+            	"values": 
+            	[
+            		{
+            			"label": "yes",
+            			"value": "yes"
+            		   
+            		},
+            		{
+            			"label": "no",
+            			"value": "no",
+            			"selected": true
+            		}
+	            ],
+	            "value": "no"
             }
         ],
         [
