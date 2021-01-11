@@ -426,7 +426,7 @@
                 "label": "FG Host Name",
                 "className": "form-control",
                 "name": "fg-api-host-name",
-                "value": "http://10.10.15.82",
+                "value": "http://10.10.154.82",
                 "subtype": "text"
             },
             {
