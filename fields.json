@@ -600,7 +600,7 @@
                 "label": "SAH dashboard email",
                 "className": "form-control",
                 "name": "sah_dashboard_email",
-                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.com"
+                "value": "NuwanB@brandix.com,GolukondaR@brandix.com,AkulaP@brandix.comBAI3LeadTeam@brandix.com,ErandaS@brandix.com,RevathiP@brandix.com,LaxmanK@brandix.com,PatchikoruR@brandix.com,SivaganeshM@brandix.com,KumarTh@brandix.com,KumariP@brandix.com,BAI3RMWarehouse@brandix.com,BAI3CuttingTeam@brandix.com,BAI3FinishingTeam@brandix.com,BAI3AllExecutives@brandix.com"
             },
             {
                 "type": "text",
