@@ -661,10 +661,10 @@
             {
                 "type": "text",
                 "subtype": "email",
-                "label": "Mail17",
+                "label": "supplier claim log",
                 "className": "form-control",
-                "name": "mail17",
-                "value": "PrabathSa@brandix.com,ShenalS@brandix.com,ChamaraKal@brandix.com,ChathurangaD@brandix.com,IndikaDey@brandix.com,OshanP@brandix.com,SachithV@brandix.com,KrishanthaGu@brandix.com,KalinduP@brandix.com"
+                "name": "supplier_claim_log_mail",
+                "value": "chandimalw@brandix.com"
             },
             {
                 "type": "text",
