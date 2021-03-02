@@ -841,7 +841,7 @@
                 "value": "yes"
              },
              {
-                "type": "select",
+                "type": "select", 
                 "required": true,
                 "label": "Enable API Calls",
                 "className": "form-control",
