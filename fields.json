@@ -73,7 +73,7 @@
 			},
             {
                 "type": "text",
-                "required": true,
+                "required": true, 
                 "label": "Plant Head",
                 "className": "form-control",
                 "name": "plant_head",
