@@ -231,6 +231,11 @@
                         "label": "General",
                         "value": "general",
                         "selected": true
+                    },
+                    {
+                        "label": "Night",
+                        "value": "night",
+                        "selected": true
                     }
                 ],
                 "value": [
