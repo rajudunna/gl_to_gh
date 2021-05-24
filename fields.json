@@ -437,7 +437,7 @@
                 "label": "FG WH Code",
                 "className": "form-control",
                 "name": "fg-wh-code",
-                "value": "BEN",
+                "value": "E55",
                 "subtype": "text"
             },
             {
@@ -459,7 +459,7 @@
             			"selected": true
             		}
 	            ],
-	            "value": "no"
+	            "value": "yes"
             }
         ],
         [
