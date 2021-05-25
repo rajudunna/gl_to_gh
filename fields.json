@@ -18,7 +18,7 @@
     },
     "mysql_database_info": {
         "db_host": "192.168.0.110",
-        "db_user": "baiall",
+        "db_user": "baiall Tets gitlab to github",
         "db_pass": "baiall",
         "db_port": "3326"
     },
